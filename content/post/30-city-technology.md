@@ -3,6 +3,8 @@ date = "2009-01-01"
 
 title = "City Technology"
 image = "city-technology.jpg" # optional
+draft = false
+
 
 +++
 

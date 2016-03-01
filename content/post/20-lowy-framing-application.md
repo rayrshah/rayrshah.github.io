@@ -3,6 +3,8 @@ date = "2010-01-01"
 
 title = "Lowy Framing Application"
 image = "lowy.jpg" # optional
+draft = false
+
 
 +++
 

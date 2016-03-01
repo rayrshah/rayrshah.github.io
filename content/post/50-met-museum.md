@@ -3,6 +3,8 @@ date = "2006-01-01"
 
 title = "Metropolitan Museum of Art"
 image = "labels.png" # optional
+draft = false
+
 
 +++
 

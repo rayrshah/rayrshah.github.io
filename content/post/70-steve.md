@@ -3,6 +3,8 @@ date = "2004-01-01"
 
 title = "steve.museum"
 image = "steve_inside_object.jpg" # optional
+draft = false
+
 
 +++
 

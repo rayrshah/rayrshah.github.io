@@ -2,6 +2,8 @@
 date = "2003-01-01"
 title = "Giorgio Armani and DKNY"
 image = "dkny.jpg" # optional
+draft = false
+
 
 +++
 

@@ -4,6 +4,8 @@ date = "2007-01-01"
 title = "Living-Museum"
 image = "lm-front.jpg" # optional
 toc = false
+draft = false
+
 +++
 
 A museum educational & curatorial tool [http://living-museum.org] Collection based software that allows students & visitors to construct their own sub-sites.

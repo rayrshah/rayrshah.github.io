@@ -3,6 +3,8 @@ date = "2003-01-01"
 
 title = "New-York Historical Society American Revolution"
 image = "image.jpg" # optional
+draft = false
+
 
 +++
 

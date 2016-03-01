@@ -2,31 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ray Shah - Product Designer </title>
-    <link>http://rayrshah.github.io/post/</link>
+    <link>/post/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2016</rights>
-    <updated>2016-02-29 18:29:42 -0500 EST</updated>
+    <updated>2010-01-01 00:00:00 &#43;0000 UTC</updated>
 
     
       
         <item>
-          <title>100</title>
-          <link>http://rayrshah.github.io/post/100/</link>
-          <pubDate>Mon, 29 Feb 2016 18:29:42 EST</pubDate>
-          <author></author>
-          <guid>http://rayrshah.github.io/post/100/</guid>
-          <description></description>
-        </item>
-      
-    
-      
-        <item>
           <title>Americanium</title>
-          <link>http://rayrshah.github.io/post/10-americanium/</link>
+          <link>/post/10-americanium/</link>
           <pubDate>Fri, 01 Jan 2010 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/post/10-americanium/</guid>
+          <guid>/post/10-americanium/</guid>
           <description>&lt;p&gt;2010 – Americanium: cultural news aggregation site with a custom RSS module that enables periodic updates from RSS, twitter, flickr and YouTube feeds.&lt;/p&gt;
 </description>
         </item>
@@ -35,10 +24,10 @@
       
         <item>
           <title>Art Resource</title>
-          <link>http://rayrshah.github.io/post/100-art-resource/</link>
+          <link>/post/100-art-resource/</link>
           <pubDate>Fri, 01 Jan 2010 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/post/100-art-resource/</guid>
+          <guid>/post/100-art-resource/</guid>
           <description>&lt;p&gt;Art Resource is a fine art image-licensing library with multiple sources. I developed a new design that treats all the sources fairly, and allows multiple ways of navigating through the hundreds of thousands of images available.&lt;/p&gt;
 </description>
         </item>
@@ -47,10 +36,10 @@
       
         <item>
           <title>Lowy Framing Application</title>
-          <link>http://rayrshah.github.io/post/20-lowy-framing-application/</link>
+          <link>/post/20-lowy-framing-application/</link>
           <pubDate>Fri, 01 Jan 2010 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/post/20-lowy-framing-application/</guid>
+          <guid>/post/20-lowy-framing-application/</guid>
           <description>&lt;p&gt;Lowy Framing Application: Intranet tool allowing high-quality capture of frames and virtual compositing of customers’ works of art with Lowy’s frames.&lt;/p&gt;
 </description>
         </item>
@@ -59,10 +48,10 @@
       
         <item>
           <title>City Technology</title>
-          <link>http://rayrshah.github.io/post/30-city-technology/</link>
+          <link>/post/30-city-technology/</link>
           <pubDate>Thu, 01 Jan 2009 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/post/30-city-technology/</guid>
+          <guid>/post/30-city-technology/</guid>
           <description>&lt;p&gt;Elementary school teacher training website. Simplified user input module/interface for adding text, video and image data. Information architecture combined with Drupal menu structure ensures pages appear where intended.&lt;/p&gt;
 </description>
         </item>
@@ -71,10 +60,10 @@
       
         <item>
           <title>Mousharaka</title>
-          <link>http://rayrshah.github.io/post/110-mousharaka/</link>
+          <link>/post/110-mousharaka/</link>
           <pubDate>Thu, 01 Jan 2009 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/post/110-mousharaka/</guid>
+          <guid>/post/110-mousharaka/</guid>
           <description>&lt;p&gt;Mousharaka graphic design conference was the first of its kind in Doha. Hired by VCU to execute the website for the conference, I managed client, designers and programmers.
 We designed dual language interface (Arabic/English), and interfaced with online conference paper manager.&lt;/p&gt;
 </description>
@@ -84,10 +73,10 @@ We designed dual language interface (Arabic/English), and interfaced with online
       
         <item>
           <title>Living-Museum</title>
-          <link>http://rayrshah.github.io/post/40-Living-Museum/</link>
+          <link>/post/40-Living-Museum/</link>
           <pubDate>Mon, 01 Jan 2007 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/post/40-Living-Museum/</guid>
+          <guid>/post/40-Living-Museum/</guid>
           <description>
 
 &lt;p&gt;A museum educational &amp;amp; curatorial tool [&lt;a href=&#34;http://living-museum.org&#34;&gt;http://living-museum.org&lt;/a&gt;] Collection based software that allows students &amp;amp; visitors to construct their own sub-sites.&lt;/p&gt;
@@ -97,7 +86,7 @@ We designed dual language interface (Arabic/English), and interfaced with online
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/images/exhibit-page.png&#34; /&gt;
+        &lt;img src=&#34;/images/exhibit-page.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -113,7 +102,7 @@ We designed dual language interface (Arabic/English), and interfaced with online
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/images/living-museum-site-ia.png&#34; /&gt;
+        &lt;img src=&#34;/images/living-museum-site-ia.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -129,7 +118,7 @@ We designed dual language interface (Arabic/English), and interfaced with online
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/images/exhibitionadministration5c.png&#34; /&gt;
+        &lt;img src=&#34;/images/exhibitionadministration5c.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -144,7 +133,7 @@ Site layout and page flow kept as simple as possible, with streamlined worflows 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/images/lmp_db_complete.png&#34; /&gt;
+        &lt;img src=&#34;/images/lmp_db_complete.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -169,10 +158,10 @@ A sandard Drupal framework was used. Coding was DRY and data relationships were 
       
         <item>
           <title>Metropolitan Museum of Art</title>
-          <link>http://rayrshah.github.io/post/50-met-museum/</link>
+          <link>/post/50-met-museum/</link>
           <pubDate>Sun, 01 Jan 2006 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/post/50-met-museum/</guid>
+          <guid>/post/50-met-museum/</guid>
           <description>&lt;p&gt;2006 – Metropolitan Museum of Art: Labels Automation System
 Discovery, needs assessment and specification document for project that became the basis of an RFP.&lt;/p&gt;
 </description>
@@ -182,10 +171,10 @@ Discovery, needs assessment and specification document for project that became t
       
         <item>
           <title>steve.museum</title>
-          <link>http://rayrshah.github.io/post/70-steve/</link>
+          <link>/post/70-steve/</link>
           <pubDate>Thu, 01 Jan 2004 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/post/70-steve/</guid>
+          <guid>/post/70-steve/</guid>
           <description>&lt;p&gt;2004 – steve.museum Social Cataloguing for Art Museums. Founding member of the steve community, as well as the primary technical vendor for the tagger and databases.&lt;/p&gt;
 </description>
         </item>
@@ -194,10 +183,10 @@ Discovery, needs assessment and specification document for project that became t
       
         <item>
           <title>Giorgio Armani and DKNY</title>
-          <link>http://rayrshah.github.io/post/90-DKNY/</link>
+          <link>/post/90-DKNY/</link>
           <pubDate>Wed, 01 Jan 2003 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/post/90-DKNY/</guid>
+          <guid>/post/90-DKNY/</guid>
           <description>&lt;p&gt;2002 - 2006 Girogio Armani and DKNY Commissions Management System and Flash Sales
 Commisions management built on top of existing sales audit and employee database systems, it allows sales staff to see how much commission they have earned from any POS terminal.&lt;/p&gt;
 </description>
@@ -207,10 +196,10 @@ Commisions management built on top of existing sales audit and employee database
       
         <item>
           <title>New-York Historical Society American Revolution</title>
-          <link>http://rayrshah.github.io/post/80-new-york-historical-society/</link>
+          <link>/post/80-new-york-historical-society/</link>
           <pubDate>Wed, 01 Jan 2003 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/post/80-new-york-historical-society/</guid>
+          <guid>/post/80-new-york-historical-society/</guid>
           <description>&lt;p&gt;2003 - 2006 New-York Historical Society American Revolution Digital Media Project
 The web site made the N-YHS’s extensive revolution-related collection of artifacts and documents available through digitization and dissemenation through the Web.
 * Web based collections management application (CMA) used by many researchers.

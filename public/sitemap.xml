@@ -2,68 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://rayrshah.github.io/</loc>
-    <lastmod>2016-02-29T18:29:42-05:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2016-02-29T18:22:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/post/100/</loc>
-    <lastmod>2016-02-29T18:29:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rayrshah.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-02-29T18:22:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/post/10-americanium/</loc>
+    <loc>/post/10-americanium/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/post/100-art-resource/</loc>
+    <loc>/post/100-art-resource/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/post/20-lowy-framing-application/</loc>
+    <loc>/post/20-lowy-framing-application/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/post/30-city-technology/</loc>
+    <loc>/post/30-city-technology/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/post/110-mousharaka/</loc>
+    <loc>/post/110-mousharaka/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/post/40-Living-Museum/</loc>
+    <loc>/post/40-Living-Museum/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/post/50-met-museum/</loc>
+    <loc>/post/50-met-museum/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/post/70-steve/</loc>
+    <loc>/post/70-steve/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/post/90-DKNY/</loc>
+    <loc>/post/90-DKNY/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/post/80-new-york-historical-society/</loc>
+    <loc>/post/80-new-york-historical-society/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
   </url>
   

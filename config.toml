@@ -1,0 +1,13 @@
+baseurl = "http://rayrshah.github.io/"
+languageCode = "en-us"
+title = "Ray Shah - Product Designer"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+canonifyurls = true
+theme = "robust"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

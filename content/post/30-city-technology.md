@@ -5,5 +5,5 @@ title = "City Technology"
 image = "city-technology.jpg" # optional
 
 +++
-
+{{< figure src= "/images/city-technology.jpg" title="City Technology Website" caption="">}}
 Elementary school teacher training website. Simplified user input module/interface for adding text, video and image data. Information architecture combined with Drupal menu structure ensures pages appear where intended.

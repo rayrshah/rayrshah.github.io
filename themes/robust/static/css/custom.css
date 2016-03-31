@@ -1,5 +1,7 @@
 body {
-	  font-family: 'Open Sans', "MS PGothic", sans-serif;
+	  font-family: "Roboto Slab", serif;
+	  font-size: 16px;
+	  line-height: 1.35em;
 	}
 
 article.li .summary, article.single .article-body p {
@@ -9,3 +11,86 @@ article.li .summary, article.single .article-body p {
   article.single .image {
   height: 40rem;
 }
+
+.summary, p, li {
+/*	font-family: "Roboto Slab",  serif;
+*/	color: rgb(110, 98, 89);
+}
+
+.figcaption  p {
+ 	font-size: .80em;
+ 	font-weight: 300;
+ 	color: rgb(60, 50, 50);
+ }
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Lato, Verdana, sans-serif;
+	color: #999;
+    font-weight: normal;
+	font-style: normal;
+    margin-bottom: 0px;
+    font-weight: 700;  
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.35em;
+}
+
+title, h1 {
+	font-size: 2em;
+	font-weight: 700;
+	text-align: left;
+}
+
+h2 {
+	clear: left;
+	font-size: 3em;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+h3 {
+	color: #ffffff;
+	font-size: 1.35em;
+	font-weight: normal;
+	font-style: normal;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+
+h4 {
+	font-family: lato, Verdana, sans-serif;
+	color: #000000;
+	margin-bottom: 12px;
+	margin-left: 0;
+	margin-top: 50px;
+	font-size: 1.6em;
+	font-weight: 700;
+	clear: left;
+	text-align: center;
+	font-weight: normal;
+	font-style: normal;
+}
+
+h5 {
+	color: #ffffff;
+	font-size: 2em;
+	margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: normal;
+	font-style: normal;
+}
+
+h6 {
+	font-family: lato, Verdana, sans-serif;
+	color: #575757;
+	margin-bottom: 10px;
+	margin-left: 0;
+	text-align: center;
+	margin-top: 0px;
+	padding-top: 24px;
+	font-size: 1.6em;
+	font-weight: 100;
+	font-weight: normal;
+	font-style: normal;
+}
+	

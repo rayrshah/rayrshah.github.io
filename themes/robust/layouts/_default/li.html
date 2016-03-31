@@ -3,7 +3,7 @@
     <div class="image" style="background-image: url({{ $.Site.BaseURL }}images/{{ with .Params.image }}{{ . }}{{ else }}default.jpg{{ end }});"></div>
     <div class="detail">
       <!-- <time>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time> -->
-      <h2 class="title">{{ .Title }}</h2>
+      <h1 class="title">{{ .Title }}</h1>
       <div class="summary">{{ .Summary }}</div>
     </div>
   </a>

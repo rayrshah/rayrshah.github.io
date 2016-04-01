@@ -1,7 +1,7 @@
 +++
 date = "2010-01-01"
 
-title = "Lowy Framing Application"
+title = "Framing Application"
 image = "frames/lowy.jpg" # optional
 
 +++
@@ -10,9 +10,9 @@ image = "frames/lowy.jpg" # optional
 ## Frame Search Tool
 {{< figure src= "/images/frames/lowy.jpg" title="" caption="Above: The final tool with search contained within the sidebar">}}
 
-Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they just want a frame that fits their decor, budget and the work of art itself.
+Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.
 
-This intranet tool allows high-quality capture of frames and virtual compositing of customers’ works of art with Lowy’s frames. Lowy had built a compositing tool with IBM in the 90's, and this is the tool we built to replace it.
+This intranet tool allows high-quality capture of frames (through a SLR camera) and virtual compositing of customers’ works of art with Lowy’s frames. Lowy had built a compositing tool with IBM in the 90's, and this is the tool we built to replace it.
 
 The purpose of the tool is to allow customers to envisualize their beautiful artwork in a selection of frames. This greatly assists the sales team, as they don't have to rely on customers imagination, they can show prospective customers exactly how their frames would look.
 

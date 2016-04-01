@@ -41,7 +41,7 @@ Startup&lt;/p&gt;
     
       
         <item>
-          <title>Lowy Framing Application</title>
+          <title>Framing Application</title>
           <link>/post/20-lowy-framing-application/</link>
           <pubDate>Fri, 01 Jan 2010 00:00:00 UTC</pubDate>
           <author></author>
@@ -71,9 +71,9 @@ Startup&lt;/p&gt;
 &lt;/figure&gt;
 
 
-&lt;p&gt;Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they just want a frame that fits their decor, budget and the work of art itself.&lt;/p&gt;
+&lt;p&gt;Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.&lt;/p&gt;
 
-&lt;p&gt;This intranet tool allows high-quality capture of frames and virtual compositing of customers’ works of art with Lowy’s frames. Lowy had built a compositing tool with IBM in the 90&amp;rsquo;s, and this is the tool we built to replace it.&lt;/p&gt;
+&lt;p&gt;This intranet tool allows high-quality capture of frames (through a SLR camera) and virtual compositing of customers’ works of art with Lowy’s frames. Lowy had built a compositing tool with IBM in the 90&amp;rsquo;s, and this is the tool we built to replace it.&lt;/p&gt;
 
 &lt;p&gt;The purpose of the tool is to allow customers to envisualize their beautiful artwork in a selection of frames. This greatly assists the sales team, as they don&amp;rsquo;t have to rely on customers imagination, they can show prospective customers exactly how their frames would look.&lt;/p&gt;
 

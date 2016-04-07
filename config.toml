@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://rayrshah.github.io/public/"
 languageCode = "en-us"
 title = "Ray Shah - Product Designer"
 contentdir = "content"

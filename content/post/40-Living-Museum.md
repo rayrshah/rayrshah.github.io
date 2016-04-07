@@ -34,4 +34,4 @@ A sandard Drupal framework was used. Coding was DRY and data relationships were 
 * Information Architecture
 * Product Design
 * Client Contact
-- Project Management
+* Project Management

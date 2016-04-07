@@ -7,5 +7,5 @@ image = "ray-apple.jpg"
 
 ## Ray Shah
 
-Founder & President of software development, web and education consultancy. [http://www.thinkdesign.com] Responsible for team building, project management, functional specification, selection of technologies, understanding, synthesizing and realizing clients' objectives.
+Founder & President of software development, web and education consultancy. [http://www.thinkdesign.com] Responsible for team building, project management, functional specification, selection of technologies, understanding, synthesizing and realizing client objectives.
 

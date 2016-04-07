@@ -7,8 +7,8 @@ image = "frames/lowy.jpg" # optional
 +++
 <script src="/galleria/galleria-1.4.2.min.js"></script>
 
-## Frame Search Tool
-{{< figure src= "/images/frames/lowy.jpg" title="" caption="Above: The final tool with search contained within the sidebar">}}
+## Frame Search
+{{< figure src= "/images/frames/lowy-sm.jpg" title="" caption="Above: The final tool with search contained within the sidebar">}}
 
 Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.
 
@@ -41,23 +41,17 @@ Once client requirements were understood, this initial wireframe shows workflow 
  * Review uploaded artwork.
  * Review completed composite artwork and frame combinations.
 
-----
-## Proposed Scope and Approach
-
-{{< figure src= "/images/frames/lowy-workflow.png" title="" caption="">}}
-
-This diagram helped decision makers understand the proposed setup and allowed them to double check our assumptions.
 
 
 ----
-
-## Inventory Management
+## Inventory Management and Approach
 
 <div class="galleria" style="width: 700px;height: 600px; background: #555; border:0; padding:0; margin:0;" >
     <img src="/images/frames/Lowy-maintenance-edit.png" data-title="Initial Maintenance Screen" data-description="">
     <img src="/images/frames/delete-frame.png" data-title="Frame detail management" data-description="">
     <img src="/images/frames/Lowy-design-all-frames-view-sm.png" data-title="Inventory view" data-description="">
     <img src="/images/frames/Lowy-maintenance-import-sm.png" data-title="Frame import wireframe" data-description="">
+    <img src="/images/frames/lowy-workflow.png" data-title="Proposed Scope and Approach" data-description="This helped stakeholders understand proposed setup and validate our assumptions.">
 </div>
 
 Searching for frames relies on good metadata. The metadata is entered and managed through the manage frame screen (wireframe and finished screen are shown).

@@ -2,7 +2,7 @@
 date = "2007-01-01"
 
 title = "Living-Museum"
-image = "lm-front.jpg" # optional
+image = "lm/lm-front.jpg" # optional
 toc = false
 +++
 
@@ -34,3 +34,4 @@ A sandard Drupal framework was used. Coding was DRY and data relationships were 
 * Information Architecture
 * Product Design
 * Client Contact
+- Project Management

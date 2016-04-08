@@ -4,7 +4,6 @@ title = "* Projects"
 image = "dkny.jpg" # optional
 
 +++
-<script src="/galleria/galleria-1.4.2.min.js"></script>
 
 
 ## Americanium

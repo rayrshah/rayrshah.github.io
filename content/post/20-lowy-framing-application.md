@@ -5,12 +5,11 @@ title = "Framing Application"
 image = "frames/lowy.jpg" # optional
 
 +++
-<script src="/galleria/galleria-1.4.2.min.js"></script>
 
 ## Frame Search
-{{< figure src= "/images/frames/lowy-sm.jpg" title="" caption="Above: The final tool with search contained within the sidebar">}}
+{{< figure src= "/images/frames/lowy-sm.jpg" title="" caption="The final tool with search contained within the sidebar">}}
 
-Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.
+Lowy specialises in fine art antique and reproduction frames. <!--more-->They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.
 
 This intranet tool allows high-quality capture of frames (through a SLR camera) and virtual compositing of customers’ works of art with Lowy’s frames. Lowy had built a compositing tool with IBM in the 90's, and this is the tool we built to replace it.
 
@@ -20,7 +19,8 @@ For customers, it reduces the risk, there's a lot less guesswork involved, and s
 
 ## Early Wireframes
 
-<div class="galleria" style="width: 600px;height: 701px; background: #555; border:0; padding:0; margin:0;" >
+<div class="main-carousel js-flickity"
+  data-flickity-options='{ "imagesLoaded": true,"cellAlign": "left", "contain": true,  "accessibility": true }'>
     <img src="/images/frames/Frame-Finder-tabbed-1.png" data-title="Faceted Frame Search" data-description="Criteria from existing inventory used to populate the search page.">
     <img src="/images/frames/functioning-prototype.png" data-title="Early search prototype" data-description="Working prototype for the search.">
     <img src="/images/frames/framesView-action.jpg" data-title="Later search prototype" data-description="Later prototype is more compact.">
@@ -46,7 +46,8 @@ Once client requirements were understood, this initial wireframe shows workflow 
 ----
 ## Inventory Management and Approach
 
-<div class="galleria" style="width: 700px;height: 600px; background: #555; border:0; padding:0; margin:0;" >
+<div class="main-carousel js-flickity"
+  data-flickity-options='{ "imagesLoaded": true,"cellAlign": "left", "contain": true,  "accessibility": true }'>
     <img src="/images/frames/Lowy-maintenance-edit.png" data-title="Initial Maintenance Screen" data-description="">
     <img src="/images/frames/delete-frame.png" data-title="Frame detail management" data-description="">
     <img src="/images/frames/Lowy-design-all-frames-view-sm.png" data-title="Inventory view" data-description="">

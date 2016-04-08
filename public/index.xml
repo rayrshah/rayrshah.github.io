@@ -5,11 +5,9 @@
     <link>http://rayrshah.github.io/public/</link>
     <language>en-us</language>
     <author></author>
-    <rights>(C) 2016</rights>
-    <updated>2016-02-29 18:22:00 -0500 EST</updated>
+    <rights>(C) 2010</rights>
+    <updated>2010-01-01 00:00:00 &#43;0000 UTC</updated>
 
-    
-      
     
       
         <item>
@@ -19,8 +17,6 @@
           <author></author>
           <guid>http://rayrshah.github.io/public/post/10-other-projects/</guid>
           <description>
-
-&lt;script src=&#34;http://rayrshah.github.io/public/galleria/galleria-1.4.2.min.js&#34;&gt;&lt;/script&gt;
 
 &lt;h2 id=&#34;americanium:b4b843de0a75bd35e7bc38c4189dbdfc&#34;&gt;Americanium&lt;/h2&gt;
 
@@ -207,20 +203,18 @@ Commisions management built on top of existing sales audit and employee database
           <guid>http://rayrshah.github.io/public/post/20-lowy-framing-application/</guid>
           <description>
 
-&lt;script src=&#34;http://rayrshah.github.io/public/galleria/galleria-1.4.2.min.js&#34;&gt;&lt;/script&gt;
-
 &lt;h2 id=&#34;frame-search:6979efd3b17fef3a3f6df080ae321b47&#34;&gt;Frame Search&lt;/h2&gt;
 
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/lowy-sm.jpg&#34; alt=&#34;Above: The final tool with search contained within the sidebar&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/lowy-sm.jpg&#34; alt=&#34;The final tool with search contained within the sidebar&#34; /&gt;
     
     
     &lt;figcaption&gt;
         &lt;h4&gt;&lt;/h4&gt;
         &lt;p&gt;
-        Above: The final tool with search contained within the sidebar
+        The final tool with search contained within the sidebar
         
             
         
@@ -240,7 +234,8 @@ Commisions management built on top of existing sales audit and employee database
 
 &lt;h2 id=&#34;early-wireframes:6979efd3b17fef3a3f6df080ae321b47&#34;&gt;Early Wireframes&lt;/h2&gt;
 
-&lt;div class=&#34;galleria&#34; style=&#34;width: 600px;height: 701px; background: #555; border:0; padding:0; margin:0;&#34; &gt;
+&lt;div class=&#34;main-carousel js-flickity&#34;
+  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
     &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/Frame-Finder-tabbed-1.png&#34; data-title=&#34;Faceted Frame Search&#34; data-description=&#34;Criteria from existing inventory used to populate the search page.&#34;&gt;
     &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/functioning-prototype.png&#34; data-title=&#34;Early search prototype&#34; data-description=&#34;Working prototype for the search.&#34;&gt;
     &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/framesView-action.jpg&#34; data-title=&#34;Later search prototype&#34; data-description=&#34;Later prototype is more compact.&#34;&gt;
@@ -266,7 +261,8 @@ Commisions management built on top of existing sales audit and employee database
 
 &lt;h2 id=&#34;inventory-management-and-approach:6979efd3b17fef3a3f6df080ae321b47&#34;&gt;Inventory Management and Approach&lt;/h2&gt;
 
-&lt;div class=&#34;galleria&#34; style=&#34;width: 700px;height: 600px; background: #555; border:0; padding:0; margin:0;&#34; &gt;
+&lt;div class=&#34;main-carousel js-flickity&#34;
+  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
     &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/Lowy-maintenance-edit.png&#34; data-title=&#34;Initial Maintenance Screen&#34; data-description=&#34;&#34;&gt;
     &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/delete-frame.png&#34; data-title=&#34;Frame detail management&#34; data-description=&#34;&#34;&gt;
     &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/Lowy-design-all-frames-view-sm.png&#34; data-title=&#34;Inventory view&#34; data-description=&#34;&#34;&gt;
@@ -297,41 +293,51 @@ Commisions management built on top of existing sales audit and employee database
           <guid>http://rayrshah.github.io/public/post/15-service-design/</guid>
           <description>
 
-&lt;script src=&#34;http://rayrshah.github.io/public/galleria/galleria-1.4.2.min.js&#34;&gt;&lt;/script&gt;
-
 &lt;h2 id=&#34;catering-in-the-royal-parks:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Catering in the Royal Parks&lt;/h2&gt;
 
 &lt;p&gt;A student group project aimed to discover novel ways of providing better catering while using existing facilities in London&amp;rsquo;s Royal Parks.&lt;/p&gt;
 
-&lt;p&gt;Our brief was to find more diverse ways to offer catering services and to support users to make more effective use of them.
-&lt;div class=&#34;galleria&#34; style=&#34;width: 600px;height: 550px; background: #555; border:0; padding:0; margin:0;&#34; &gt;
-    &lt;img src= &#34;/images/parks/coffeeInThePark.jpg&#34; data-title=&#34;Sunset at Serpentine Cafe&#34; data-description=&#34;A nice way to round off an afternoon in the park&#34;&gt;
-    &lt;img src= &#34;/images/parks/cateringInTheParkBrief.jpg&#34; data-title=&#34;Design Brief and Target Service&#34; data-description=&#34;&#34;&gt;&lt;br /&gt;
-    &lt;img src= &#34;/images/parks/madLinesInTheCafe.jpg&#34; data-title=&#34;Intense Lines Waiting for Self-Service&#34; data-description=&#34;The flip side of the coffe and cake - the wait.&#34;&gt;&lt;br /&gt;
-    &lt;img src= &#34;/images/parks/lineRegister.jpg&#34; data-title=&#34;More Lines&#34; data-description=&#34;More waiting and paying.&#34;&gt;
-    &lt;img src= &#34;/images/parks/kioskLines.jpg&#34; data-title=&#34;The Kiosk has Lines&#34; data-description=&#34;No seating and still lines.&#34;&gt;
-    &lt;img src= &#34;/images/parks/GroupPersonaSam+Co.jpg&#34; data-title=&#34;Group Persona of some 30 somethings&#34; data-description=&#34;Personas based on observation and interview.&#34;&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Our brief was to find more diverse ways to offer catering services and to support users to make more effective use of them.&lt;/p&gt;
 
 &lt;h3 id=&#34;ethnography:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Ethnography&lt;/h3&gt;
 
 &lt;p&gt;To inform this project users were observed, documented and engaged regarding why they were there and how they intended to spend time in the park.&lt;/p&gt;
 
-&lt;h2 id=&#34;idea-generation:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Idea Generation&lt;/h2&gt;
-
-&lt;div class=&#34;galleria&#34; style=&#34;width: 600px;height: 450px; background: #555; border:0; padding:0; margin:0;&#34; &gt;
-    &lt;img src= &#34;/images/parks/constraintRemoval.jpg&#34; title=&#34;Structured brainstorming constraint removed: Technology.&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/images/parks/legoInThePark.jpg&#34; data-title=&#34;Lego and Plasticine Modelling&#34; data-description=&#34;Proposals to improve park services.&#34;&gt;
+&lt;div class=&#34;main-carousel js-flickity&#34;
+  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
+    &lt;img src= &#34;/public/images/parks/coffeeInThePark.jpg&#34;  alt=&#34;Sunset at Serpentine Cafe&#34; /&gt;
+    &lt;img src= &#34;/public/images/parks/madLinesInTheCafe.jpg&#34; alt=&#34;Intense Lines Waiting for Self-Service&#34; /&gt;   
+    &lt;img src= &#34;/public/images/parks/lineRegister.jpg&#34; alt=&#34;More Lines&#34; /&gt;
+    &lt;img src= &#34;/public/images/parks/kioskLines.jpg&#34; alt=&#34;The Kiosk has Lines&#34; /&gt;
 &lt;/div&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Constraint Removal&lt;/li&gt;
-&lt;li&gt;Modelling&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;p&gt;Many ideas were generated through these exercises, some of which were novel and useful.&lt;/p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://rayrshah.github.io/public/images/parks/GroupPersonaSamCo.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Group Persona of some 30 somethings&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
 
-&lt;h2 id=&#34;idea-evaluation:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Idea Evaluation&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;idea-generation:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Idea Generation&lt;/h2&gt;
+
+&lt;div class=&#34;main-carousel js-flickity&#34;
+  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
+    &lt;img src= &#34;/public/images/parks/legoInThePark.jpg&#34; alt=&#34;Lego and Plasticine Modelling&#34; data-description=&#34;Proposals to improve park services.&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/constraintRemoval.jpg&#34; alt=&#34;Structured brainstorming constraint removed: Technology.&#34; caption=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Idea generation techniques used included constraint removal and modelling. Many ideas were generated through these exercises, some were novel and useful.&lt;/p&gt;
+
+&lt;h2 id=&#34;novely-and-utility:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Novely and Utility&lt;/h2&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
@@ -348,19 +354,32 @@ Commisions management built on top of existing sales audit and employee database
 
 The best ideas were examined on how useful and how novel they were. Those which were both were most likely to be adopted.&lt;/p&gt;
 
+&lt;hr /&gt;
+
 &lt;h2 id=&#34;scenario-sketching-with-remote-tools:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Scenario Sketching with Remote Tools&lt;/h2&gt;
 
-&lt;div class=&#34;galleria&#34; style=&#34;width: 600px;height: 450px; background: #555; border:0; padding:0; margin:0;&#34; &gt;
-    &lt;img src= &#34;/images/parks/Draft1/SBFrame1.JPG&#34; title=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/images/parks/Draft1/SBFrame2.JPG&#34; title=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/images/parks/Draft1/SBFrame3.JPG&#34; title=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/images/parks/Draft1/SBFrame4.JPG&#34; title=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/images/parks/Draft1/SBFrame5.JPG&#34; title=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+&lt;div class=&#34;main-carousel js-flickity&#34;
+  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
+    &lt;img src= &#34;/public/images/parks/Draft1/SBFrame1.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/Draft1/SBFrame2.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/Draft1/SBFrame3.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/Draft1/SBFrame4.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/Draft1/SBFrame5.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
 &lt;/div&gt;
 
 &lt;p&gt;In this scenario a family goes to the park and uses a smart map near the entrance to identify available catering services and see what the wait time is for each.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ycqvwtxalrzj79b/VID_20140413_184759.mov?dl=0&#34;&gt;https://www.dropbox.com/s/ycqvwtxalrzj79b/VID_20140413_184759.mov?dl=0&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;scenario-sketches:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Scenario Sketches&lt;/h2&gt;
+
+&lt;div class=&#34;main-carousel js-flickity&#34;
+  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
+    &lt;img src= &#34;/public/images/parks/Draft3/photo1.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/Draft3/photo2.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/Draft3/photo3.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;video width=&#34;600px&#34; src=&#34;http://rayrshah.github.io/public/images/parks/user-test-in-the-park.ogg&#34; controls&gt;
+&lt;/video&gt;
 </description>
         </item>
       

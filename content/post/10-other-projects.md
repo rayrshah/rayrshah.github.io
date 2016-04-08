@@ -1,9 +1,11 @@
 +++
 date = "2010-01-01"
 title = "* Projects"
-image = "americanium.jpg" # optional
+image = "dkny.jpg" # optional
 
 +++
+<script src="/galleria/galleria-1.4.2.min.js"></script>
+
 
 ## Americanium
 {{< figure src= "/images/americanium.jpg" title="" caption="Cultural news aggregation site with a custom RSS module that enables periodic updates from RSS, twitter, flickr and YouTube feeds.">}}
@@ -67,6 +69,11 @@ Commisions management built on top of existing sales audit and employee database
 - Expert usability evaluation
 - Prototyping
 - Feature discussions with vendor
+
+<div class="galleria" style="width: 600px;height: 450px; background: #555; border:0; padding:0; margin:0;" >
+	<img src= "/images/parks/constraintRemoval.jpg" title="Structured brainstorming constraint removed: Technology." caption="">
+	<img src= "/images/parks/legoInThePark.jpg" data-title="Lego and Plasticine Modelling" data-description="Proposals to improve park services.">
+</div>
 
 
 

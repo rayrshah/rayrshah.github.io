@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ray Shah - Product Designer </title>
+    <title>Ray Shah - Digital Product Designer </title>
     <link>http://rayrshah.github.io/public/</link>
     <language>en-us</language>
     <author></author>
@@ -19,6 +19,8 @@
           <author></author>
           <guid>http://rayrshah.github.io/public/post/10-other-projects/</guid>
           <description>
+
+&lt;script src=&#34;http://rayrshah.github.io/public/galleria/galleria-1.4.2.min.js&#34;&gt;&lt;/script&gt;
 
 &lt;h2 id=&#34;americanium:b4b843de0a75bd35e7bc38c4189dbdfc&#34;&gt;Americanium&lt;/h2&gt;
 
@@ -187,6 +189,11 @@ Commisions management built on top of existing sales audit and employee database
 &lt;li&gt;Prototyping&lt;/li&gt;
 &lt;li&gt;Feature discussions with vendor&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;div class=&#34;galleria&#34; style=&#34;width: 600px;height: 450px; background: #555; border:0; padding:0; margin:0;&#34; &gt;
+    &lt;img src= &#34;/images/parks/constraintRemoval.jpg&#34; title=&#34;Structured brainstorming constraint removed: Technology.&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/images/parks/legoInThePark.jpg&#34; data-title=&#34;Lego and Plasticine Modelling&#34; data-description=&#34;Proposals to improve park services.&#34;&gt;
+&lt;/div&gt;
 </description>
         </item>
       

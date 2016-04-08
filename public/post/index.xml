@@ -477,21 +477,20 @@ An educational &amp;amp; curatorial tool.  Museum collection based software that
 
 &lt;p&gt;Children select family heirlooms and learn about their heritage as they research and curate the object for an exhibition.&lt;/p&gt;
 
+&lt;h2 id=&#34;information-architecture:e7195788aac1e49adc4296c1fe864fd5&#34;&gt;Information Architecture&lt;/h2&gt;
+
 
 &lt;figure &gt;
     
         &lt;img src=&#34;http://rayrshah.github.io/public/images/lm/living-museum-site-ia.png&#34; /&gt;
     
     
-    &lt;figcaption&gt;
-        &lt;h4&gt;Information Architecture&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
 &lt;/figure&gt;
 
 
 &lt;p&gt;In addition to scaffolding the exhibition for the children, interfaces were devised for their teachers and museum administrators.&lt;/p&gt;
+
+&lt;h2 id=&#34;teacher-exhibition-management-page:e7195788aac1e49adc4296c1fe864fd5&#34;&gt;Teacher Exhibition Management Page&lt;/h2&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
@@ -508,16 +507,13 @@ An educational &amp;amp; curatorial tool.  Museum collection based software that
 
 Site layout and page flow kept as simple as possible, with streamlined worflows for the 3 user types.&lt;/p&gt;
 
+&lt;h2 id=&#34;database-structure:e7195788aac1e49adc4296c1fe864fd5&#34;&gt;Database Structure&lt;/h2&gt;
+
 &lt;p&gt;
 &lt;figure &gt;
     
         &lt;img src=&#34;http://rayrshah.github.io/public/images/lm/lmp_db_complete.png&#34; /&gt;
     
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Technology&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
     
 &lt;/figure&gt;
 

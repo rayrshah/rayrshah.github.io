@@ -12,7 +12,7 @@ An educational & curatorial tool.  Museum collection based software that allows 
 ## Project Details
 
 
-{{< figure src= "/images/lm/exhibit-page.png" title="Exhibition Page" caption="">}}
+{{< figure src= "/images/lm/exhibit-page.jpg" title="Exhibition Page" caption="">}}
 
 Children select family heirlooms and learn about their heritage as they research and curate the object for an exhibition.
 

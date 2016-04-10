@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ray Shah - Digital Product Designer </title>
-    <link>http://rayrshah.github.io/public/post/</link>
+    <link>http://rayrshah.github.io/portfolio/post/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2010</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>* Projects</title>
-          <link>http://rayrshah.github.io/public/post/10-other-projects/</link>
+          <link>http://rayrshah.github.io/portfolio/post/10-other-projects/</link>
           <pubDate>Fri, 01 Jan 2010 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/public/post/10-other-projects/</guid>
+          <guid>http://rayrshah.github.io/portfolio/post/10-other-projects/</guid>
           <description>
 
 &lt;h2 id=&#34;americanium:b4b843de0a75bd35e7bc38c4189dbdfc&#34;&gt;Americanium&lt;/h2&gt;
@@ -23,7 +23,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/americanium.jpg&#34; alt=&#34;Cultural news aggregation site with a custom RSS module that enables periodic updates from RSS, twitter, flickr and YouTube feeds.&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/americanium.jpg&#34; alt=&#34;Cultural news aggregation site with a custom RSS module that enables periodic updates from RSS, twitter, flickr and YouTube feeds.&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -54,7 +54,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/dkny.jpg&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/dkny.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -76,7 +76,7 @@ Commisions management built on top of existing sales audit and employee database
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/steve_inside_object.jpg&#34; alt=&#34;Social Cataloguing for Art Museums. Founding member of the steve community, as well as the primary technical vendor for the tagger and databases.&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/steve_inside_object.jpg&#34; alt=&#34;Social Cataloguing for Art Museums. Founding member of the steve community, as well as the primary technical vendor for the tagger and databases.&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -106,7 +106,7 @@ Commisions management built on top of existing sales audit and employee database
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/labels.png&#34; alt=&#34;Discovery, needs assessment and specification document for project that became the basis of an RFP.&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/labels.png&#34; alt=&#34;Discovery, needs assessment and specification document for project that became the basis of an RFP.&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -136,7 +136,7 @@ Commisions management built on top of existing sales audit and employee database
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/city-technology.jpg&#34; alt=&#34;Elementary school teacher training website. Simplified user input module/interface for adding text, video and image data. Information architecture combined with Drupal menu structure ensures pages appear where intended.&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/city-technology.jpg&#34; alt=&#34;Elementary school teacher training website. Simplified user input module/interface for adding text, video and image data. Information architecture combined with Drupal menu structure ensures pages appear where intended.&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -163,7 +163,7 @@ Commisions management built on top of existing sales audit and employee database
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/art-resource.jpg&#34; alt=&#34;Art Resource is a fine art image-licensing library with multiple sources. I developed a new design that treats all the sources fairly, and allows multiple ways of navigating through the hundreds of thousands of images available.&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/art-resource.jpg&#34; alt=&#34;Art Resource is a fine art image-licensing library with multiple sources. I developed a new design that treats all the sources fairly, and allows multiple ways of navigating through the hundreds of thousands of images available.&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -197,10 +197,10 @@ Commisions management built on top of existing sales audit and employee database
       
         <item>
           <title>Framing Application</title>
-          <link>http://rayrshah.github.io/public/post/20-lowy-framing-application/</link>
+          <link>http://rayrshah.github.io/portfolio/post/20-lowy-framing-application/</link>
           <pubDate>Fri, 01 Jan 2010 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/public/post/20-lowy-framing-application/</guid>
+          <guid>http://rayrshah.github.io/portfolio/post/20-lowy-framing-application/</guid>
           <description>
 
 &lt;h2 id=&#34;frame-search:6979efd3b17fef3a3f6df080ae321b47&#34;&gt;Frame Search&lt;/h2&gt;
@@ -208,7 +208,7 @@ Commisions management built on top of existing sales audit and employee database
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/lowy-sm.jpg&#34; alt=&#34;The final tool with search contained within the sidebar&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/lowy-sm.jpg&#34; alt=&#34;The final tool with search contained within the sidebar&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -236,14 +236,14 @@ Commisions management built on top of existing sales audit and employee database
 
 &lt;div class=&#34;main-carousel js-flickity&#34;
   data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/Frame-Finder-tabbed-1.png&#34; data-title=&#34;Faceted Frame Search&#34; data-description=&#34;Criteria from existing inventory used to populate the search page.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/functioning-prototype.png&#34; data-title=&#34;Early search prototype&#34; data-description=&#34;Working prototype for the search.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/framesView-action.jpg&#34; data-title=&#34;Later search prototype&#34; data-description=&#34;Later prototype is more compact.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/Frame-Finder-tabbed-2.png&#34; data-title=&#34;Search Results&#34; data-description=&#34;Frames that match the search criteria&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/Frame-Finder-tabbed-3.png&#34; data-title=&#34;Frame Detail&#34; data-description=&#34;Summary information about an individual frame.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/Frame-Finder-tabbed-4.png&#34; data-title=&#34;Artwork Search/Upload&#34; data-description=&#34;Sales team members could search for existing artwork or upload something new.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/Frame-Finder-tabbed-5.png&#34; data-title=&#34;Artwork Portfolio&#34; data-description=&#34;Client&#39;s art works assembled together.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/Frame-Finder-tabbed-6.png&#34; data-title=&#34;Framed Art Composites&#34; data-description=&#34;This screen shows art applied to frames, to be reviewed by the client.&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/Frame-Finder-tabbed-1.png&#34; data-title=&#34;Faceted Frame Search&#34; data-description=&#34;Criteria from existing inventory used to populate the search page.&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/functioning-prototype.png&#34; data-title=&#34;Early search prototype&#34; data-description=&#34;Working prototype for the search.&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/framesView-action.jpg&#34; data-title=&#34;Later search prototype&#34; data-description=&#34;Later prototype is more compact.&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/Frame-Finder-tabbed-2.png&#34; data-title=&#34;Search Results&#34; data-description=&#34;Frames that match the search criteria&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/Frame-Finder-tabbed-3.png&#34; data-title=&#34;Frame Detail&#34; data-description=&#34;Summary information about an individual frame.&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/Frame-Finder-tabbed-4.png&#34; data-title=&#34;Artwork Search/Upload&#34; data-description=&#34;Sales team members could search for existing artwork or upload something new.&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/Frame-Finder-tabbed-5.png&#34; data-title=&#34;Artwork Portfolio&#34; data-description=&#34;Client&#39;s art works assembled together.&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/Frame-Finder-tabbed-6.png&#34; data-title=&#34;Framed Art Composites&#34; data-description=&#34;This screen shows art applied to frames, to be reviewed by the client.&#34;&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Once client requirements were understood, this initial wireframe shows workflow order:&lt;/p&gt;
@@ -263,11 +263,11 @@ Commisions management built on top of existing sales audit and employee database
 
 &lt;div class=&#34;main-carousel js-flickity&#34;
   data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/Lowy-maintenance-edit.png&#34; data-title=&#34;Initial Maintenance Screen&#34; data-description=&#34;&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/delete-frame.png&#34; data-title=&#34;Frame detail management&#34; data-description=&#34;&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/Lowy-design-all-frames-view-sm.png&#34; data-title=&#34;Inventory view&#34; data-description=&#34;&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/Lowy-maintenance-import-sm.png&#34; data-title=&#34;Frame import wireframe&#34; data-description=&#34;&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/public/images/frames/lowy-workflow.png&#34; data-title=&#34;Proposed Scope and Approach&#34; data-description=&#34;This helped stakeholders understand proposed setup and validate our assumptions.&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/Lowy-maintenance-edit.png&#34; data-title=&#34;Initial Maintenance Screen&#34; data-description=&#34;&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/delete-frame.png&#34; data-title=&#34;Frame detail management&#34; data-description=&#34;&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/Lowy-design-all-frames-view-sm.png&#34; data-title=&#34;Inventory view&#34; data-description=&#34;&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/Lowy-maintenance-import-sm.png&#34; data-title=&#34;Frame import wireframe&#34; data-description=&#34;&#34;&gt;
+    &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/frames/lowy-workflow.png&#34; data-title=&#34;Proposed Scope and Approach&#34; data-description=&#34;This helped stakeholders understand proposed setup and validate our assumptions.&#34;&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Searching for frames relies on good metadata. The metadata is entered and managed through the manage frame screen (wireframe and finished screen are shown).&lt;/p&gt;
@@ -287,10 +287,10 @@ Commisions management built on top of existing sales audit and employee database
       
         <item>
           <title>Service Design</title>
-          <link>http://rayrshah.github.io/public/post/15-service-design/</link>
+          <link>http://rayrshah.github.io/portfolio/post/15-service-design/</link>
           <pubDate>Fri, 01 Jan 2010 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/public/post/15-service-design/</guid>
+          <guid>http://rayrshah.github.io/portfolio/post/15-service-design/</guid>
           <description>
 
 &lt;h2 id=&#34;catering-in-the-royal-parks:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Catering in the Royal Parks&lt;/h2&gt;
@@ -314,7 +314,7 @@ Commisions management built on top of existing sales audit and employee database
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/parks/GroupPersonaSamCo.jpg&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/parks/GroupPersonaSamCo.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -342,7 +342,7 @@ Commisions management built on top of existing sales audit and employee database
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/parks/noveltyUsefulness.jpg&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/parks/noveltyUsefulness.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -380,7 +380,7 @@ The best ideas were examined on how useful and how novel they were. Those which 
 
 &lt;h3 id=&#34;user-tests:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;User Tests&lt;/h3&gt;
 
-&lt;video width=&#34;600px&#34; src=&#34;http://rayrshah.github.io/public/images/parks/user-test-in-the-park.ogg&#34; controls&gt;
+&lt;video width=&#34;600px&#34; src=&#34;http://rayrshah.github.io/portfolio/images/parks/user-test-in-the-park.ogg&#34; controls&gt;
 &lt;/video&gt;
 </description>
         </item>
@@ -389,10 +389,10 @@ The best ideas were examined on how useful and how novel they were. Those which 
       
         <item>
           <title>Mousharaka</title>
-          <link>http://rayrshah.github.io/public/post/110-mousharaka/</link>
+          <link>http://rayrshah.github.io/portfolio/post/110-mousharaka/</link>
           <pubDate>Thu, 01 Jan 2009 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/public/post/110-mousharaka/</guid>
+          <guid>http://rayrshah.github.io/portfolio/post/110-mousharaka/</guid>
           <description>
 
 &lt;h2 id=&#34;project-details:98d8cba58ab89d4b6c78c177e9f6974a&#34;&gt;Project Details&lt;/h2&gt;
@@ -400,7 +400,7 @@ The best ideas were examined on how useful and how novel they were. Those which 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/mo/student-events.jpg&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/mo/student-events.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -415,7 +415,7 @@ Mousharaka graphic design conference was the first of its kind in Doha. Hired by
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/mo/arabic.png&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/mo/arabic.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -431,7 +431,7 @@ Mousharaka graphic design conference was the first of its kind in Doha. Hired by
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/mo/vision.png&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/mo/vision.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -447,7 +447,7 @@ Mousharaka graphic design conference was the first of its kind in Doha. Hired by
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/mo/wireframe-icograda-mousharaka.png&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/mo/wireframe-icograda-mousharaka.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -466,16 +466,16 @@ Mousharaka graphic design conference was the first of its kind in Doha. Hired by
       
         <item>
           <title>Living-Museum</title>
-          <link>http://rayrshah.github.io/public/post/40-Living-Museum/</link>
+          <link>http://rayrshah.github.io/portfolio/post/40-Living-Museum/</link>
           <pubDate>Mon, 01 Jan 2007 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/public/post/40-Living-Museum/</guid>
+          <guid>http://rayrshah.github.io/portfolio/post/40-Living-Museum/</guid>
           <description>
 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/lm/lm-front.jpg&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/lm/lm-front.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -487,7 +487,7 @@ An educational &amp;amp; curatorial tool.  Museum collection based software that
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/lm/exhibit-page.jpg&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/lm/exhibit-page.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -505,7 +505,7 @@ An educational &amp;amp; curatorial tool.  Museum collection based software that
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/lm/living-museum-site-ia.png&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/lm/living-museum-site-ia.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -518,7 +518,7 @@ An educational &amp;amp; curatorial tool.  Museum collection based software that
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/lm/exhibitionadministration5c.png&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/lm/exhibitionadministration5c.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -535,7 +535,7 @@ Site layout and page flow kept as simple as possible, with streamlined worflows 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://rayrshah.github.io/public/images/lm/lmp_db_complete.png&#34; /&gt;
+        &lt;img src=&#34;http://rayrshah.github.io/portfolio/images/lm/lmp_db_complete.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -556,10 +556,10 @@ A sandard Drupal framework was used. Coding was DRY and data relationships were 
       
         <item>
           <title>New-York Historical Society American Revolution</title>
-          <link>http://rayrshah.github.io/public/post/80-new-york-historical-society/</link>
+          <link>http://rayrshah.github.io/portfolio/post/80-new-york-historical-society/</link>
           <pubDate>Wed, 01 Jan 2003 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://rayrshah.github.io/public/post/80-new-york-historical-society/</guid>
+          <guid>http://rayrshah.github.io/portfolio/post/80-new-york-historical-society/</guid>
           <description>&lt;p&gt;2003 - 2006 New-York Historical Society American Revolution Digital Media Project
 The web site made the N-YHS’s extensive revolution-related collection of artifacts and documents available through digitization and dissemenation through the Web.
 * Web based collections management application (CMA) used by many researchers.

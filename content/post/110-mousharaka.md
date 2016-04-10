@@ -22,4 +22,4 @@ In addition to implementation, I arranged secure hosting for the site.
 
 {{< figure src= "/images/mo/wireframe-icograda-mousharaka.png" title="Initial Working Wireframe" caption="">}}
 
-Menu structures (and content) were fine tuned here, to ensure they made sense and provided good wayfinding.
+Menu structures for both English and Arabic content were fine tuned here, to ensure they made sense and provided good wayfinding for both audiences.

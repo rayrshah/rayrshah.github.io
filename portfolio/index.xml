@@ -327,7 +327,7 @@ Commisions management built on top of existing sales audit and employee database
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;idea-generation:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Idea Generation&lt;/h2&gt;
+&lt;h3 id=&#34;idea-generation:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Idea Generation&lt;/h3&gt;
 
 &lt;div class=&#34;main-carousel js-flickity&#34;
   data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
@@ -356,27 +356,29 @@ The best ideas were examined on how useful and how novel they were. Those which 
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;scenario-sketching-with-remote-tools:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Scenario Sketching with Remote Tools&lt;/h2&gt;
+&lt;h3 id=&#34;scenario-sketching-with-remote-tools:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Scenario Sketching with Remote Tools&lt;/h3&gt;
 
 &lt;div class=&#34;main-carousel js-flickity&#34;
   data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src= &#34;/public/images/parks/Draft1/SBFrame1.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/public/images/parks/Draft1/SBFrame2.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/public/images/parks/Draft1/SBFrame3.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/public/images/parks/Draft1/SBFrame4.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/public/images/parks/Draft1/SBFrame5.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/SBFrame1.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/SBFrame2.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/SBFrame3.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/SBFrame4.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/SBFrame5.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
 &lt;/div&gt;
 
 &lt;p&gt;In this scenario a family goes to the park and uses a smart map near the entrance to identify available catering services and see what the wait time is for each.&lt;/p&gt;
 
-&lt;h2 id=&#34;scenario-sketches:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Scenario Sketches&lt;/h2&gt;
+&lt;h3 id=&#34;scenario-sketches:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Scenario Sketches&lt;/h3&gt;
 
 &lt;div class=&#34;main-carousel js-flickity&#34;
   data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src= &#34;/public/images/parks/Draft3/photo1.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/public/images/parks/Draft3/photo2.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/public/images/parks/Draft3/photo3.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/photo1.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/photo2.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/public/images/parks/photo3.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
 &lt;/div&gt;
+
+&lt;h3 id=&#34;user-tests:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;User Tests&lt;/h3&gt;
 
 &lt;video width=&#34;600px&#34; src=&#34;http://rayrshah.github.io/public/images/parks/user-test-in-the-park.ogg&#34; controls&gt;
 &lt;/video&gt;

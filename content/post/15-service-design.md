@@ -27,7 +27,7 @@ To inform this project users were observed, documented and engaged regarding why
 
 ---
 
-## Idea Generation 
+### Idea Generation 
  
 <div class="main-carousel js-flickity"
   data-flickity-options='{ "imagesLoaded": true,"cellAlign": "left", "contain": true,  "accessibility": true }'>
@@ -44,28 +44,28 @@ The best ideas were examined on how useful and how novel they were. Those which 
 
 ---
 
-## Scenario Sketching with Remote Tools
+### Scenario Sketching with Remote Tools
 <div class="main-carousel js-flickity"
   data-flickity-options='{ "imagesLoaded": true,"cellAlign": "left", "contain": true,  "accessibility": true }'>
-	<img src= "/public/images/parks/Draft1/SBFrame1.JPG" alt="Scenario Sketch" caption="">
-	<img src= "/public/images/parks/Draft1/SBFrame2.JPG" alt="Scenario Sketch" caption="">
-	<img src= "/public/images/parks/Draft1/SBFrame3.JPG" alt="Scenario Sketch" caption="">
-	<img src= "/public/images/parks/Draft1/SBFrame4.JPG" alt="Scenario Sketch" caption="">
-	<img src= "/public/images/parks/Draft1/SBFrame5.JPG" alt="Scenario Sketch" caption="">
+	<img src= "/public/images/parks/SBFrame1.JPG" alt="Scenario Sketch" caption="">
+	<img src= "/public/images/parks/SBFrame2.JPG" alt="Scenario Sketch" caption="">
+	<img src= "/public/images/parks/SBFrame3.JPG" alt="Scenario Sketch" caption="">
+	<img src= "/public/images/parks/SBFrame4.JPG" alt="Scenario Sketch" caption="">
+	<img src= "/public/images/parks/SBFrame5.JPG" alt="Scenario Sketch" caption="">
 </div>
 
 
 In this scenario a family goes to the park and uses a smart map near the entrance to identify available catering services and see what the wait time is for each.
 
-## Scenario Sketches
+### Scenario Sketches
 <div class="main-carousel js-flickity"
   data-flickity-options='{ "imagesLoaded": true,"cellAlign": "left", "contain": true,  "accessibility": true }'>
-	<img src= "/public/images/parks/Draft3/photo1.JPG" alt="Scenario Sketch" caption="">
-	<img src= "/public/images/parks/Draft3/photo2.JPG" alt="Scenario Sketch" caption="">
-	<img src= "/public/images/parks/Draft3/photo3.JPG" alt="Scenario Sketch" caption="">
+	<img src= "/public/images/parks/photo1.JPG" alt="Scenario Sketch" caption="">
+	<img src= "/public/images/parks/photo2.JPG" alt="Scenario Sketch" caption="">
+	<img src= "/public/images/parks/photo3.JPG" alt="Scenario Sketch" caption="">
 </div>
 
-
+### User Tests
 <video width="600px" src="/images/parks/user-test-in-the-park.ogg" controls>
 </video>
 

@@ -1,15 +1,31 @@
 +++
 date = "2010-01-01"
 
-title = "Framing Application"
+title = "Art Framing"
 image = "frames/lowy.jpg" # optional
+tags = [ 
+    "Art Direction", 
+    "Project Management", 
+    "Cloud", 
+    "Hardware", 
+    "Information Architecture", 
+    "Requirements",
+    "Hardware Integration",
+    "User Interviews", 
+    "UX"
+    ]
 
+Categories = [
+       "Product Design",
+       "Cultural Heritage",
+       "Intranet"
+]
 +++
 
 ## Frame Search
 {{< figure src= "/images/frames/lowy-sm.jpg" title="" caption="The final tool with search contained within the sidebar">}}
 
-Lowy specialises in fine art antique and reproduction frames. <!--more-->They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.
+Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.
 
 This intranet tool allows high-quality capture of frames (through a SLR camera) and virtual compositing of customers’ works of art with Lowy’s frames. Lowy had built a compositing tool with IBM in the 90's, and this is the tool we built to replace it.
 

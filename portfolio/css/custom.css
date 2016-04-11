@@ -140,7 +140,11 @@ header.site .title a {
 }
 
 .flickity-page-dots {
-	bottom: -1px;
+	bottom: 10px;
+}
+
+.main-carousel {
+	margin-bottom: 2em;
 }
 
 	

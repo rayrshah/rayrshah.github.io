@@ -3,7 +3,19 @@ date = "2010-01-01"
 
 title = "Service Design"
 image = "parks/coffeeInThePark.jpg" # optional
+tags = [ 
+    "Human Centred Design", 
+    "User Interviews", 
+    "Requirements", 
+    "Ethnography", 
+    "Information Architecture", 
+    "UX"
+    ]
 
+Categories = [
+       "Product Design",
+       "Mobile"
+]
 +++
 
 
@@ -17,10 +29,10 @@ To inform this project users were observed, documented and engaged regarding why
 
 <div class="main-carousel js-flickity"
   data-flickity-options='{ "imagesLoaded": true,"cellAlign": "left", "contain": true,  "accessibility": true }'>
-	<img src= "/public/images/parks/coffeeInThePark.jpg"  alt="Sunset at Serpentine Cafe" />
-	<img src= "/public/images/parks/madLinesInTheCafe.jpg" alt="Intense Lines Waiting for Self-Service" />   
-	<img src= "/public/images/parks/lineRegister.jpg" alt="More Lines" />
-	<img src= "/public/images/parks/kioskLines.jpg" alt="The Kiosk has Lines" />
+	<img src= "/portfolio/images/parks/coffeeInThePark.jpg"  alt="Sunset at Serpentine Cafe" />
+	<img src= "/portfolio/images/parks/madLinesInTheCafe.jpg" alt="Intense Lines Waiting for Self-Service" />   
+	<img src= "/portfolio/images/parks/lineRegister.jpg" alt="More Lines" />
+	<img src= "/portfolio/images/parks/kioskLines.jpg" alt="The Kiosk has Lines" />
 </div>
 
 {{< figure src="/images/parks/GroupPersonaSamCo.jpg" title="Group Persona of some 30 somethings" caption="">}}
@@ -31,8 +43,8 @@ To inform this project users were observed, documented and engaged regarding why
  
 <div class="main-carousel js-flickity"
   data-flickity-options='{ "imagesLoaded": true,"cellAlign": "left", "contain": true,  "accessibility": true }'>
-	<img src= "/public/images/parks/legoInThePark.jpg" alt="Lego and Plasticine Modelling" data-description="Proposals to improve park services.">
-	<img src= "/public/images/parks/constraintRemoval.jpg" alt="Structured brainstorming constraint removed: Technology." caption="">
+	<img src= "/portfolio/images/parks/legoInThePark.jpg" alt="Lego and Plasticine Modelling" data-description="Proposals to improve park services.">
+	<img src= "/portfolio/images/parks/constraintRemoval.jpg" alt="Structured brainstorming constraint removed: Technology." caption="">
 </div>
 
 Idea generation techniques used included constraint removal and modelling. Many ideas were generated through these exercises, some were novel and useful.  
@@ -47,11 +59,11 @@ The best ideas were examined on how useful and how novel they were. Those which 
 ### Scenario Sketching with Remote Tools
 <div class="main-carousel js-flickity"
   data-flickity-options='{ "imagesLoaded": true,"cellAlign": "left", "contain": true,  "accessibility": true }'>
-	<img src= "/public/images/parks/SBFrame1.JPG" alt="Scenario Sketch" caption="">
-	<img src= "/public/images/parks/SBFrame2.JPG" alt="Scenario Sketch" caption="">
-	<img src= "/public/images/parks/SBFrame3.JPG" alt="Scenario Sketch" caption="">
-	<img src= "/public/images/parks/SBFrame4.JPG" alt="Scenario Sketch" caption="">
-	<img src= "/public/images/parks/SBFrame5.JPG" alt="Scenario Sketch" caption="">
+	<img src= "/portfolio/images/parks/SBFrame1.jpg" alt="Scenario Sketch" caption="">
+	<img src= "/portfolio/images/parks/SBFrame2.jpg" alt="Scenario Sketch" caption="">
+	<img src= "/portfolio/images/parks/SBFrame3.jpg" alt="Scenario Sketch" caption="">
+	<img src= "/portfolio/images/parks/SBFrame4.jpg" alt="Scenario Sketch" caption="">
+	<img src= "/portfolio/images/parks/SBFrame5.jpg" alt="Scenario Sketch" caption="">
 </div>
 
 
@@ -60,9 +72,9 @@ In this scenario a family goes to the park and uses a smart map near the entranc
 ### Scenario Sketches
 <div class="main-carousel js-flickity"
   data-flickity-options='{ "imagesLoaded": true,"cellAlign": "left", "contain": true,  "accessibility": true }'>
-	<img src= "/public/images/parks/photo1.JPG" alt="Scenario Sketch" caption="">
-	<img src= "/public/images/parks/photo2.JPG" alt="Scenario Sketch" caption="">
-	<img src= "/public/images/parks/photo3.JPG" alt="Scenario Sketch" caption="">
+	<img src= "/portfolio/images/parks/photo1.JPG" alt="Scenario Sketch" caption="">
+	<img src= "/portfolio/images/parks/photo2.JPG" alt="Scenario Sketch" caption="">
+	<img src= "/portfolio/images/parks/photo3.JPG" alt="Scenario Sketch" caption="">
 </div>
 
 ### User Tests

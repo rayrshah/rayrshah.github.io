@@ -2,7 +2,7 @@
 title = "Work"
 
 [[projects]]
-    name = "Lowy Fine Art Frames"
+    name = "Art Frame Search"
     folder = "lowy"
 
 [[projects]]
@@ -10,25 +10,25 @@ title = "Work"
     folder = "nyhs"
 
 [[projects]]
-    name = "Crispy Icons"
-    folder = "proj-3"
+    name = "City Technology"
+    folder = "citytech"
 
 [[projects]]
-    name = "Flat Mobile UI/UX Concept"
-    folder = "proj-4"
+    name = "Living Museum"
+    folder = "livingMuseum"
 
 [[projects]]
-    name = "Fresh It Up"
-    folder = "proj-5"
+    name = "Service Design"
+    folder = "serviceDesign"
 
 [[projects]]
-    name = "Timeline Page"
-    folder = "proj-6"
+    name = "RSS News Site"
+    folder = "rss"
 
 [[projects]]
-    name = "Weather Dashboard"
-    folder = "proj-7"
+    name = "Image Licensing Library "
+    folder = "licensing"
 
 [[projects]]
-    name = "Stripes & Co"
-    folder = "proj-8"
+    name = "Conference Site"
+    folder = "mo"

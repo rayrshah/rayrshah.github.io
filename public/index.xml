@@ -571,20 +571,23 @@ This tool leaves a more lasting impression that can be shared with friends and f
     
     <item>
       <title></title>
-      <link>http://rayrshah.github.io/work/work/mo/</link>
+      <link>http://rayrshah.github.io/work/work/mousharaka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/work/mo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/mo/mousharakaSITEMAP-phases.png&#34; alt=&#34;Sitemap&#34; /&gt;&lt;/p&gt;
+      <guid>http://rayrshah.github.io/work/work/mousharaka/</guid>
+      <description>&lt;p&gt;Conference Event Website&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;img/work/mo/student-events.jpg&#34; alt=&#34;Student Events Page&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;main-carousel js-flickity&#34;
+  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
+    &lt;img src=&#34;img/work/mo/student-events.jpg&#34; alt=&#34;Student Events Page&#34;&gt;
+    &lt;img src=&#34;img/work/mo/arabic.png&#34; alt=&#34;Arabic Front Page&#34;&gt;
+    &lt;img src=&#34;img/work/mo/vision.png&#34; alt=&#34;Mission Statement in English&#34;&gt;
+    &lt;img src=&#34;img/work/mo/wireframe-icograda-mousharaka.png&#34; alt=&#34;Early Working Wireframe&#34;&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Hired by Virginia Commonwealth University to execute the website for the first graphic design conference in Doha.&lt;/p&gt;
+&lt;p&gt;Mousharaka graphic design conference was the first of its kind in Doha. Hired by Virginia Commonwealth University to execute the website for the conference&lt;/p&gt;
 
 &lt;p&gt;We designed dual language interface (Arabic/English), and interfaced with online conference paper manager.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/mo/arabic.png&#34; alt=&#34;Arabic Front Page&#34; /&gt;
-&lt;img src=&#34;img/work/mo/wireframe-icograda-mousharaka.png&#34; alt=&#34;Early Working Wireframe&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In addition to implementation, I arranged secure hosting for the site.&lt;/p&gt;
 
@@ -596,6 +599,8 @@ This tool leaves a more lasting impression that can be shared with friends and f
 &lt;li&gt;Recruitment of Technical Talent&lt;/li&gt;
 &lt;li&gt;Set up Server and Hosting&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/proj-8/stripes-co-NickZoutendijk.jpg&#34; alt=&#34;Stripes &amp;amp; Co&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

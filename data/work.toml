@@ -10,16 +10,16 @@ title = "Work"
     folder = "nyhs"
 
 [[projects]]
+    name = "Service Design"
+    folder = "serviceDesign"
+
+[[projects]]
     name = "City Technology"
     folder = "citytech"
 
 [[projects]]
     name = "Living Museum"
     folder = "livingMuseum"
-
-[[projects]]
-    name = "Service Design"
-    folder = "serviceDesign"
 
 [[projects]]
     name = "RSS News Site"

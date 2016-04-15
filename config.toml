@@ -6,6 +6,9 @@ theme = "hugo-artists-theme"
 publishdir = "work"
 
 [params]
+	
+	# make room for custom CSS 
+    custom_css = ["css/custom.css"]
 
 	# You can use Markdown syntax for urls [text](//url.to/source) for
 	# most longer texts.
@@ -29,54 +32,26 @@ publishdir = "work"
 	email = "rayshah@thinkdesign.com"
 
 
-	# Header an navigation
+	# Header and navigation
 	#
 	# To change the header background the 'hero-bg-jpg' at 'static/img'.
 	# Do the same with the logo ('logo.svg').
 	# But keep the original filename!
 	[params.header]
 		title = "Bridge The Gap"
-		shortBio = "Facilitator // Thinker // Designer"
+		shortBio = "digital solutions through design thinking"
 
 
 	# About section
 	#
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
-		title = "What I do"
-		bio = "**Principal at [think design](//thinkdesign.com)** where I work with [arts, cultural heritage institutions](//thinkdesign.com), businesses and universities designing new ways to learn and product that meets the needs of the digital consumer."
+		title = "What I Do"
+		bio = "**I solve real-world problems through digital solutions.** As principal at [think design](//thinkdesign.com) I work with [arts, cultural heritage institutions](//thinkdesign.com), businesses and universities discovering  digital consumer needs and wants, designing new ways to do business, to learn and make product."
 
-		[[params.about.skills]]
-			name = "Communication"
-			value = 7
-
-		[[params.about.skills]]
-			name = "Organization"
-			value = 7
-
-		[[params.about.skills]]
-			name = "Research"
-			value = 8
-
-		[[params.about.skills]]
-			name = "Teaching"
-			value = 9
-
-		[[params.about.skills]]
-			name = "Acessibility"
-			value = 8
-
-		[[params.about.skills]]
-			name = "Creativity Facilitation"
-			value = 8
-
-		[[params.about.skills]]
-			name = "UX Design"
-			value = 9
-
-		[[params.about.skills]]
-			name = "Programming"
-			value = 5
+	[params.how]
+		title = "How I  Do It"
+		method = "**I solve real-world problems through digital solutions.** As principal at [think design](//thinkdesign.com) I work with [arts, cultural heritage institutions](//thinkdesign.com), businesses and universities discovering  digital consumer needs and wants, designing new ways to do business, to learn and make product."
 
 	# Contact secion
 	[params.contact]

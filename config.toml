@@ -3,6 +3,7 @@ baseurl = "http://rayrshah.github.io/work/"
 languageCode = "en-us"
 title = "Ray Shah - Digital Product Designer"
 theme = "hugo-artists-theme"
+publishdir = "work"
 
 [params]
 

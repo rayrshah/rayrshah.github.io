@@ -50,10 +50,11 @@ publishdir = "work"
 		bio = "**I solve real-world problems through digital solutions.** As principal at [think design](//thinkdesign.com) I work with [arts, cultural heritage institutions](//thinkdesign.com), businesses and universities discovering  digital consumer needs and wants, designing new ways to do business, to learn and make product."
 
 	[params.how]
-		title = "How I  Do It"
-		method = "**I solve real-world problems through digital solutions.** As principal at [think design](//thinkdesign.com) I work with [arts, cultural heritage institutions](//thinkdesign.com), businesses and universities discovering  digital consumer needs and wants, designing new ways to do business, to learn and make product."
+		title = "How I Do It"
+		discover = "**Discover** <br>Understand the business, validate user needs & opportunities, research the competitive landscape. Answer essential questions like: how do people actually interact with the brand? Through combinations of focus groups, observation and user tests. Identify essential features."
+		validate = "**Build &amp; Validate** <br>Generate original concepts. Test and incorprate findings into next round of prototypes. Refine features, interactions and visual design basd on user feedback. Iterate until a powerful, near perfect product has been realised."
 
-	# Contact secion
+	# Contact section
 	[params.contact]
 		title = "Contact"
 

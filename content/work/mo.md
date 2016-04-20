@@ -1,14 +1,6 @@
-
-
-Conference Event Website
-
-<div class="main-carousel js-flickity"
-  data-flickity-options='{ "imagesLoaded": true,"cellAlign": "left", "contain": true,  "accessibility": true }'>
-    <img src="img/work/mo/student-events.jpg" alt="Student Events Page">
-    <img src="img/work/mo/arabic.png" alt="Arabic Front Page">
-    <img src="img/work/mo/vision.png" alt="Mission Statement in English">
-    <img src="img/work/mo/wireframe-icograda-mousharaka.png" alt="Early Working Wireframe">
-</div>
+![Arabic Front Page](img/work/mo/arabic.png)
+![Mission Statement](img/work/mo/vision.png)
+![Early Working Wireframe](img/work/mo/wireframe-icograda-mousharaka.png)
 
 Mousharaka graphic design conference was the first of its kind in Doha. Hired by Virginia Commonwealth University to execute the website for the conference
 
@@ -23,4 +15,3 @@ Menu structures for both English and Arabic content were fine tuned here, to ens
 - Recruitment of Technical Talent
 - Set up Server and Hosting
 
-![Stripes & Co](img/work/proj-8/stripes-co-NickZoutendijk.jpg)

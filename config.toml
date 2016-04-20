@@ -39,7 +39,7 @@ publishdir = "work"
 	# But keep the original filename!
 	[params.header]
 		title = "Bridge The Gap"
-		shortBio = "digital solutions through design thinking"
+		shortBio = "Between client perception and user reality"
 
 
 	# About section

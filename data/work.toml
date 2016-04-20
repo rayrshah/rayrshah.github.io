@@ -22,7 +22,7 @@ title = "Work"
     folder = "rss"
 
 [[projects]]
-    name = "Image Licensing Library "
+    name = "Image Licensing Library"
     folder = "licensing"
 
 [[projects]]

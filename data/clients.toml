@@ -5,7 +5,7 @@ title = "Clients"
     avatar = "face-gary.jpg"
     name   = "Gary Benenson"
     title  = "Director of City Technology at City College"
-    quote  = "**Ray and his team delivered.** The editing interface is straightforward, and it's easy compose content and re-order it. Through video  they made our content accessible to many, reaching kids as well as our core teacher audience."
+    quote  = "**Ray and his team delivered.** The editing interface is straightforward, and it's easy to compose content and re-order it. Through video they made our content accessible reaching kids as well as our core teacher audience."
     logo   = "logo1.png"
 
 [[list]]
@@ -16,8 +16,8 @@ title = "Clients"
     logo   = "logo2.png"
 
 [[list]]
-    avatar = "face-jay.jpg"
-    name   = "Jay Sanders"
-    title  = "Operations Manager, Lowy "
-    quote  = "**Lowy Scan - the framing app that Ray delivered has changed how we work.** It's an invaluable tool that we use on a daily basis. The cloud version of the app allows us to work remotely too."
+    avatar = "face-brad.jpg"
+    name   = "Brad Shar"
+    title  = "Vice-President, Lowy "
+    quote  = "**Lowy Scan - the framing app that Ray delivered has changed how we work.** It's an invaluable sales and inventory management tool that we use on a daily basis."
     logo   = "logo3.png"

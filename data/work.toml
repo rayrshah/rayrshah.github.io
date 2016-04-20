@@ -10,10 +10,6 @@ title = "Work"
     folder = "nyhs"
 
 [[projects]]
-    name = "Service Design"
-    folder = "serviceDesign"
-
-[[projects]]
     name = "City Technology"
     folder = "citytech"
 
@@ -32,3 +28,7 @@ title = "Work"
 [[projects]]
     name = "Conference Site"
     folder = "mo"
+
+[[projects]]
+    name = "Service Design"
+    folder = "serviceDesign"

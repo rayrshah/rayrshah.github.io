@@ -1,6 +1,5 @@
 header {
     background-attachment: fixed;
-    background-color: #e3c6b1;
 }
 
 #how {

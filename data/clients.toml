@@ -1,0 +1,23 @@
+# Section title
+title = "Clients"
+
+[[list]]
+    avatar = "face-gary.jpg"
+    name   = "Gary Benenson"
+    title  = "Director of City Technology at City College"
+    quote  = "**Ray and his team delivered.** The editing interface is straightforward, and it's easy to compose content and re-order it. Through video they made our content accessible reaching kids as well as our core teacher audience."
+    logo   = "logo1.png"
+
+[[list]]
+    avatar = "face-cynthia.jpg"
+    name   = "Cynthia Copeland"
+    title  = "Director American Revolution Digitization Project"
+    quote  = "**Ray and his team enabled us realize this project**, from object and document digitization to the student interface for publishing an online exhibition. Object QTVR, mouse-over transcripts of handwritten documents and the games were highlights of this extensive work."
+    logo   = "logo2.png"
+
+[[list]]
+    avatar = "face-brad.jpg"
+    name   = "Brad Shar"
+    title  = "Vice-President, Lowy "
+    quote  = "**Lowy Scan - the framing app that Ray delivered has changed how we work.** It's an invaluable sales and inventory management tool that we use on a daily basis."
+    logo   = "logo3.png"

@@ -52,7 +52,7 @@ publishdir = "work"
 	[params.how]
 		title = "How I Do It"
 		discover = "**Discover** <br>Understand the business, validate user needs & opportunities, research the competitive landscape. Answer essential questions like: how do people actually interact with the brand? Through combinations of focus groups, observation and user tests. Identify essential features."
-		validate = "**Build &amp; Validate** <br>Generate original concepts. Test and incorprate findings into next round of prototypes. Refine features, interactions and visual design basd on user feedback. Iterate until a powerful, near perfect product has been realised."
+		validate = "**Build &amp; Validate** <br>Generate original concepts. Test and incorprate findings into next round of prototypes. Refine features, interactions and visual design based on user feedback. Iterate until a powerful, near perfect product has been realised."
 
 	# Contact section
 	[params.contact]

@@ -5,7 +5,7 @@ header {
 
 #how {
     background: #0d0d0d url("../img/how.jpg") no-repeat center center;
-    background-size: contain;
+    background-size: cover;
     background-attachment: fixed;
     margin: 0;
     padding-bottom: 20px;

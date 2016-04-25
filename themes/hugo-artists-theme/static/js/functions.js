@@ -34,11 +34,18 @@ function workBelt() {
   $('.thumb-container label').click(function() {
     $('.work-belt').addClass("slided");
     $('.work-container').show();
+    $('.section-clients').hide();
+    $('.section-contact').hide();
+    $('#form').hide();
+
   });
   
   $('.work-return').click(function() {
     $('.work-belt').removeClass("slided");
     $('.work-container').hide(800);
+    $('.section-clients').show();
+    $('.section-contact').show();
+    $('#from').show();
   });
 
 }

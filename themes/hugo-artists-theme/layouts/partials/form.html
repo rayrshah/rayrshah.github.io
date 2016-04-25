@@ -1,5 +1,5 @@
 {{ "<!-- Form section -->" | safeHTML }}
-<section>
+<section id="form">
     {{ with .Site.Params.form.title }}<h3 id="form-title">{{ . }}</h3>{{ end }}
     <form method="POST" action="//formspree.io/{{ with .Site.Params.email }}{{ . }}{{ end }}">
         <fieldset class="contact-info-group">

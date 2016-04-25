@@ -45,7 +45,7 @@ function workBelt() {
     $('.work-container').hide(800);
     $('.section-clients').show();
     $('.section-contact').show();
-    $('#from').show();
+    $('#form').show();
   });
 
 }

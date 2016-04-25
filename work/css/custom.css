@@ -30,6 +30,7 @@ header h1 span {
     padding: 0.2em 0.5em;
     border: none;
     font-size: 10rem;
+    max-width: 60rem;
 }
 
 

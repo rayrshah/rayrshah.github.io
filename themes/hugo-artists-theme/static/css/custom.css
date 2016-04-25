@@ -5,7 +5,7 @@ header {
 
 #how {
     background: #0d0d0d url("../img/how.jpg") no-repeat center center;
-    background-size: cover;
+    background-size: contain;
     background-attachment: fixed;
     margin: 0;
     padding-bottom: 20px;
@@ -30,6 +30,7 @@ header h1 span {
     padding: 0.2em 0.5em;
     border: none;
     font-size: 10rem;
+    max-width: 70rem;
 }
 
 
@@ -52,4 +53,8 @@ h3 {
     font-weight: 500;
     font-size: 3rem;
     }
+}
+
+header .kicker {
+    text-shadow: 1px 1px rgba(49, 44, 44, 0.49);
 }

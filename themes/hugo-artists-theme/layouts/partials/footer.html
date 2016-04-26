@@ -3,8 +3,7 @@
     <div class="lockup">
         <div class="content-wrap">
             <nav>
-                {{ with .Site.Params.about.title }}<a href="#about-me">{{ . }}</a>{{ end }}
-                <a href="ray_shah_201604.pdf">resume</a>
+                {{ with .Site.Params.about.title }}<a href="#about-me">{{ . }}</a>{{ end }}        {{ with .Site.Params.how.title }}<a href="#how">{{ . }}</a>{{ end }}
                 {{ with .Site.Data.work.title }}<a href="#work">{{ . }}</a>{{ end }}
                 {{ with .Site.Params.contact.title }}<a href="#contact">{{ . }}</a>{{ end }}
             </nav>

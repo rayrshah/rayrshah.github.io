@@ -7,7 +7,6 @@ This tool leaves a more lasting impression that can be shared with friends and f
 
 ![Living Museum](img/work/livingMuseum/living-museum.jpg)
 ![Living Museum](img/work/livingMuseum/lm-front.jpg)
-![Living Museum](img/work/livingMuseum/LM-public-intro.png)
 ![Living Museum](img/work/livingMuseum/lmp_db_complete.png)
 
 

@@ -31,6 +31,7 @@ header h1 span {
     border: none;
     font-size: 10rem;
     max-width: 70rem;
+    text-shadow: rgba(49, 44, 44, 0.490196) 1px 1px;
 }
 
 

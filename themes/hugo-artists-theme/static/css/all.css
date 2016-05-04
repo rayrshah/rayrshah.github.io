@@ -605,7 +605,7 @@ h3, header nav a, header .kicker, footer .lockup .content-wrap a {
 
 header, footer {
   background-repeat: no-repeat, no-repeat;
-  background-size: 50px 50px, cover;
+  background-size: 100px 100px, cover;
   background-position: 30px 50px, 50% 50%;
   background-blend-mode: overlay, normal; }
 

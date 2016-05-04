@@ -69,7 +69,6 @@ This tool leaves a more lasting impression that can be shared with friends and f
 
 &lt;p&gt;&lt;img src=&#34;img/work/livingMuseum/living-museum.jpg&#34; alt=&#34;Living Museum&#34; /&gt;
 &lt;img src=&#34;img/work/livingMuseum/lm-front.jpg&#34; alt=&#34;Living Museum&#34; /&gt;
-&lt;img src=&#34;img/work/livingMuseum/LM-public-intro.png&#34; alt=&#34;Living Museum&#34; /&gt;
 &lt;img src=&#34;img/work/livingMuseum/lmp_db_complete.png&#34; alt=&#34;Living Museum&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In addition to scaffolding the exhibition for the children, interfaces were devised for their teachers and museum administrators. Site layout and page flow kept as simple as possible, with streamlined worflows for the three user types. Data relationships were kept as simple as possible.&lt;/p&gt;
@@ -127,15 +126,17 @@ This tool leaves a more lasting impression that can be shared with friends and f
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rayrshah.github.io/work/work/mo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/mo/arabic.png&#34; alt=&#34;Arabic Front Page&#34; /&gt;
-&lt;img src=&#34;img/work/mo/vision.png&#34; alt=&#34;Mission Statement&#34; /&gt;
-&lt;img src=&#34;img/work/mo/wireframe-icograda-mousharaka.png&#34; alt=&#34;Early Working Wireframe&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;img/work/mo/arabic.png&#34; alt=&#34;Arabic Front Page&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Mousharaka graphic design conference was the first of its kind in Doha. Hired by Virginia Commonwealth University to execute the website for the conference&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/mo/mousharakaHome.png&#34; alt=&#34;Home Page&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We designed dual language interface (Arabic/English), and interfaced with online conference paper manager.&lt;/p&gt;
 
 &lt;p&gt;In addition to implementation, I arranged secure hosting for the site.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/work/mo/wireframe-icograda-mousharaka.png&#34; alt=&#34;Early Working Wireframe&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Menu structures for both English and Arabic content were fine tuned here, to ensure they made sense and provided good wayfinding for both audiences.&lt;/p&gt;
 
@@ -154,11 +155,11 @@ This tool leaves a more lasting impression that can be shared with friends and f
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rayrshah.github.io/work/work/nyhs/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/nyhs/exhibitionInterfaceAmrev.png&#34; alt=&#34;AmRev Online&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;img/work/nyhs/amrevKidsiPad.jpg&#34; alt=&#34;AmRev Online&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;New-York Historical Society’s extensive American Revolution-related collection of artifacts and documents were made available through the Web&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;img/work/nyhs/amrevKidsiPad.jpg&#34; alt=&#34;AmRev Online&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/work/nyhs/exhibitionInterfaceAmrev.png&#34; alt=&#34;AmRev Online&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The site featured a web based collections management application (CMA) used by many researchers, whose content fed straight into the website collection. Build-an-exhibition feature that enabled students and visitors to curate their own exhibitions online.&lt;/p&gt;
 

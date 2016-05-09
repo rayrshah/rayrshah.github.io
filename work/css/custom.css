@@ -1,0 +1,61 @@
+header {
+    background-attachment: fixed;
+    background-color: #e3c6b1;
+}
+
+#how {
+    background: #0d0d0d url("../img/how.jpg") no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 5rem;
+}
+.blurb {
+    text-align: left;
+    margin-top: -1em;
+}
+
+#how .blurb {
+    background: rgba(255,255,255,0.45); 
+}
+
+
+header h1 span {
+    display: inline-block;
+    padding: 0.2em 0.5em;
+    border: none;
+    font-size: 10rem;
+    max-width: 70rem;
+    text-shadow: rgba(49, 44, 44, 0.490196) 1px 1px;
+}
+
+
+@media screen and (max-width: 480px) {
+header h1 span {
+    font-size: 3rem;
+    }
+    h3 {
+    font-weight: 500;
+    font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 767px) {
+header h1 span {
+    font-size: 5rem;
+    }
+
+h3 {
+    font-weight: 500;
+    font-size: 3rem;
+    }
+}
+
+header .kicker {
+    text-shadow: 1px 1px rgba(49, 44, 44, 0.49);
+}

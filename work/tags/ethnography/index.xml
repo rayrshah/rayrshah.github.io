@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethnography on Ray Shah - Digital Product Designer</title>
+    <link>http://rayrshah.github.io/work/tags/ethnography/</link>
+    <description>Recent content in Ethnography on Ray Shah - Digital Product Designer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://rayrshah.github.io/work/tags/ethnography/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Service Design</title>
+      <link>http://rayrshah.github.io/work/post/15-service-design/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://rayrshah.github.io/work/post/15-service-design/</guid>
+      <description>
+
+&lt;h2 id=&#34;catering-in-the-royal-parks:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Catering in the Royal Parks&lt;/h2&gt;
+
+&lt;p&gt;A student group project aimed to discover novel ways of providing better catering while using existing facilities in London&amp;rsquo;s Royal Parks.&lt;/p&gt;
+
+&lt;p&gt;Our brief was to find more diverse ways to offer catering services and to support users to make more effective use of them.&lt;/p&gt;
+
+&lt;h3 id=&#34;ethnography:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Ethnography&lt;/h3&gt;
+
+&lt;p&gt;To inform this project users were observed, documented and engaged regarding why they were there and how they intended to spend time in the park.&lt;/p&gt;
+
+&lt;div class=&#34;main-carousel js-flickity&#34;
+  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
+    &lt;img src= &#34;/portfolio/images/parks/coffeeInThePark.jpg&#34;  alt=&#34;Sunset at Serpentine Cafe&#34; /&gt;
+    &lt;img src= &#34;/portfolio/images/parks/madLinesInTheCafe.jpg&#34; alt=&#34;Intense Lines Waiting for Self-Service&#34; /&gt;   
+    &lt;img src= &#34;/portfolio/images/parks/lineRegister.jpg&#34; alt=&#34;More Lines&#34; /&gt;
+    &lt;img src= &#34;/portfolio/images/parks/kioskLines.jpg&#34; alt=&#34;The Kiosk has Lines&#34; /&gt;
+&lt;/div&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://rayrshah.github.io/work/images/parks/GroupPersonaSamCo.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Group Persona of some 30 somethings&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;idea-generation:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Idea Generation&lt;/h3&gt;
+
+&lt;div class=&#34;main-carousel js-flickity&#34;
+  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
+    &lt;img src= &#34;/portfolio/images/parks/legoInThePark.jpg&#34; alt=&#34;Lego and Plasticine Modelling&#34; data-description=&#34;Proposals to improve park services.&#34;&gt;
+    &lt;img src= &#34;/portfolio/images/parks/constraintRemoval.jpg&#34; alt=&#34;Structured brainstorming constraint removed: Technology.&#34; caption=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Idea generation techniques used included constraint removal and modelling. Many ideas were generated through these exercises, some were novel and useful.&lt;/p&gt;
+
+&lt;h2 id=&#34;novely-and-utility:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Novely and Utility&lt;/h2&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://rayrshah.github.io/work/images/parks/noveltyUsefulness.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Evaluating usefulness of ideas&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+The best ideas were examined on how useful and how novel they were. Those which were both were most likely to be adopted.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;scenario-sketching-with-remote-tools:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Scenario Sketching with Remote Tools&lt;/h3&gt;
+
+&lt;div class=&#34;main-carousel js-flickity&#34;
+  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
+    &lt;img src= &#34;/portfolio/images/parks/SBFrame1.jpg&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/portfolio/images/parks/SBFrame2.jpg&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/portfolio/images/parks/SBFrame3.jpg&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/portfolio/images/parks/SBFrame4.jpg&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/portfolio/images/parks/SBFrame5.jpg&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In this scenario a family goes to the park and uses a smart map near the entrance to identify available catering services and see what the wait time is for each.&lt;/p&gt;
+
+&lt;h3 id=&#34;scenario-sketches:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Scenario Sketches&lt;/h3&gt;
+
+&lt;div class=&#34;main-carousel js-flickity&#34;
+  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
+    &lt;img src= &#34;/portfolio/images/parks/photo1.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/portfolio/images/parks/photo2.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+    &lt;img src= &#34;/portfolio/images/parks/photo3.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;user-tests:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;User Tests&lt;/h3&gt;
+
+&lt;video width=&#34;600px&#34; src=&#34;http://rayrshah.github.io/work/images/parks/user-test-in-the-park.ogg&#34; controls&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

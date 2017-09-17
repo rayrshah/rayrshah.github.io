@@ -2,239 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Ray Shah - Digital Product Designer</title>
-    <link>http://rayrshah.github.io/work/work/</link>
+    <link>http://ray.thinkdesign.com/work/</link>
     <description>Recent content in Works on Ray Shah - Digital Product Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://rayrshah.github.io/work/work/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://ray.thinkdesign.com/work/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
-      <link>http://rayrshah.github.io/work/work/citytech/</link>
+      <link>http://ray.thinkdesign.com/work/citytech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/work/citytech/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/citytech/img1.jpg&#34; alt=&#34;City Technology&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Originally intended to publish hundreds of pages of cirriculum material for teachers only, City Technology&amp;rsquo;s website developed into an interactive, video-first instructional site with a secion specifially designed for kids.&lt;/p&gt;
-
-&lt;p&gt;I devised a simplified user input interface for adding text, video and image data. It allows for drag-and-drop arranging/re-arranging of elements once they have been added to the page.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/citytech/img2.jpg&#34; alt=&#34;City Technology&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;User Workshops&lt;/li&gt;
-&lt;li&gt;Needs Assessment&lt;/li&gt;
-&lt;li&gt;Recruiting&lt;/li&gt;
-&lt;li&gt;Information Arcitecture&lt;/li&gt;
-&lt;li&gt;Editorial UX&lt;/li&gt;
-&lt;li&gt;Informal User Testing&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/work/citytech/</guid>
+      <description>Originally intended to publish hundreds of pages of cirriculum material for teachers only, City Technology&amp;rsquo;s website developed into an interactive, video-first instructional site with a secion specifially designed for kids.
+I devised a simplified user input interface for adding text, video and image data. It allows for drag-and-drop arranging/re-arranging of elements once they have been added to the page.
+ User Workshops Needs Assessment Recruiting Information Arcitecture Editorial UX Informal User Testing  </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://rayrshah.github.io/work/work/licensing/</link>
+      <link>http://ray.thinkdesign.com/work/licensing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/work/licensing/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/licensing/artResource.jpg&#34; alt=&#34;Art Resource&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Art Resource is a fine art image-licensing library with multiple sources. We developed a new design that treats all the sources fairly, makes image discovery straightforward, allows multiple ways of navigating through the hundreds of thousands of images available.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Needs Assessment&lt;/li&gt;
-&lt;li&gt;Expert usability evaluation&lt;/li&gt;
-&lt;li&gt;Prototyping&lt;/li&gt;
-&lt;li&gt;Feature discussions with vendor&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/licensing/img2.jpg&#34; alt=&#34;Art Resource&#34; /&gt;&lt;/p&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/work/licensing/</guid>
+      <description>Art Resource is a fine art image-licensing library with multiple sources. We developed a new design that treats all the sources fairly, makes image discovery straightforward, allows multiple ways of navigating through the hundreds of thousands of images available.
+ Needs Assessment Expert usability evaluation Prototyping Feature discussions with vendor  </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://rayrshah.github.io/work/work/livingMuseum/</link>
+      <link>http://ray.thinkdesign.com/work/livingmuseum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/work/livingMuseum/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/livingMuseum/exhibit-page.jpg&#34; alt=&#34;Living Museum&#34; /&gt;
-The Living Museum program turns children into museum curators complete with an exhibition (typically in a school hall for one afternoon).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/livingMuseum/exhibitionadministration5c.png&#34; alt=&#34;Living Museum&#34; /&gt;
-&lt;img src=&#34;img/work/livingMuseum/living-museum-site-ia.png&#34; alt=&#34;Living Museum&#34; /&gt;
-This tool leaves a more lasting impression that can be shared with friends and family even after the event has concluded.  The software allows students to document their own artefacts from objects in their family, and their teachers to construct a complete exhibition sub-site.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/livingMuseum/living-museum.jpg&#34; alt=&#34;Living Museum&#34; /&gt;
-&lt;img src=&#34;img/work/livingMuseum/lm-front.jpg&#34; alt=&#34;Living Museum&#34; /&gt;
-&lt;img src=&#34;img/work/livingMuseum/lmp_db_complete.png&#34; alt=&#34;Living Museum&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In addition to scaffolding the exhibition for the children, interfaces were devised for their teachers and museum administrators. Site layout and page flow kept as simple as possible, with streamlined worflows for the three user types. Data relationships were kept as simple as possible.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Art Direction&lt;/li&gt;
-&lt;li&gt;Information Architecture&lt;/li&gt;
-&lt;li&gt;Product Design&lt;/li&gt;
-&lt;li&gt;Client Contact&lt;/li&gt;
-&lt;li&gt;Project Management&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/work/livingmuseum/</guid>
+      <description>The Living Museum program turns children into museum curators complete with an exhibition (typically in a school hall for one afternoon).
+This tool leaves a more lasting impression that can be shared with friends and family even after the event has concluded. The software allows students to document their own artefacts from objects in their family, and their teachers to construct a complete exhibition sub-site.
+In addition to scaffolding the exhibition for the children, interfaces were devised for their teachers and museum administrators.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://rayrshah.github.io/work/work/lowy/</link>
+      <link>http://ray.thinkdesign.com/work/lowy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/work/lowy/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;img/work/lowy/img1.jpg&#34; alt=&#34;Lowy Frames&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.&lt;/p&gt;
-
-&lt;p&gt;Starting with high-quality capture of frames (through a SLR camera) and virtual compositing of customers’ works of art with Lowy’s frames. Lowy had built a compositing tool with IBM in the 90&amp;rsquo;s, and this is the tool we built to replace it.&lt;/p&gt;
-
-&lt;p&gt;The purpose of the tool is to allow customers to envisualize their beautiful artwork in a selection of frames. This greatly assists the sales team, as they don&amp;rsquo;t have to rely on customers imagination, they can show prospective customers exactly how their frames would look.&lt;/p&gt;
-
-&lt;p&gt;For customers, it reduces the risk, there&amp;rsquo;s a lot less guesswork involved, and seeing your picasso in a photorealistic context in a few frames will help you narrow down to the best fit.&lt;/p&gt;
-
-&lt;h5 id=&#34;inventory-management:c2ab9972e8c1f71d63e4933f0fcdb401&#34;&gt;Inventory Management&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/lowy/img2.jpg&#34; alt=&#34;Lowy Frames&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;wireframe:c2ab9972e8c1f71d63e4933f0fcdb401&#34;&gt;Wireframe&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/lowy/img3.jpg&#34; alt=&#34;Lowy Frames&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;early-iteration-of-search-and-workflow:c2ab9972e8c1f71d63e4933f0fcdb401&#34;&gt;Early Iteration of Search and Workflow&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/lowy/img4.png&#34; alt=&#34;Lowy Frames&#34; /&gt;
-&lt;img src=&#34;img/work/lowy/img5.png&#34; alt=&#34;Lowy Frames&#34; /&gt;
-&lt;img src=&#34;img/work/lowy/img6.png&#34; alt=&#34;Lowy Frames&#34; /&gt;
-&lt;img src=&#34;img/work/lowy/img7.png&#34; alt=&#34;Lowy Frames&#34; /&gt;
-&lt;img src=&#34;img/work/lowy/img8.png&#34; alt=&#34;Lowy Frames&#34; /&gt;
-&lt;img src=&#34;img/work/lowy/img9.png&#34; alt=&#34;Lowy Frames&#34; /&gt;&lt;/p&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/work/lowy/</guid>
+      <description>Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.
+Starting with high-quality capture of frames (through a SLR camera) and virtual compositing of customers’ works of art with Lowy’s frames.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://rayrshah.github.io/work/work/mo/</link>
+      <link>http://ray.thinkdesign.com/work/mo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/work/mo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/mo/arabic.png&#34; alt=&#34;Arabic Front Page&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Mousharaka graphic design conference was the first of its kind in Doha. Hired by Virginia Commonwealth University to execute the website for the conference&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/mo/mousharakaHome.png&#34; alt=&#34;Home Page&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We designed dual language interface (Arabic/English), and interfaced with online conference paper manager.&lt;/p&gt;
-
-&lt;p&gt;In addition to implementation, I arranged secure hosting for the site.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/mo/wireframe-icograda-mousharaka.png&#34; alt=&#34;Early Working Wireframe&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Menu structures for both English and Arabic content were fine tuned here, to ensure they made sense and provided good wayfinding for both audiences.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Project Management&lt;/li&gt;
-&lt;li&gt;Client content&lt;/li&gt;
-&lt;li&gt;Recruitment of Technical Talent&lt;/li&gt;
-&lt;li&gt;Set up Server and Hosting&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/work/mo/</guid>
+      <description>Mousharaka graphic design conference was the first of its kind in Doha. Hired by Virginia Commonwealth University to execute the website for the conference
+We designed dual language interface (Arabic/English), and interfaced with online conference paper manager.
+In addition to implementation, I arranged secure hosting for the site.
+Menu structures for both English and Arabic content were fine tuned here, to ensure they made sense and provided good wayfinding for both audiences.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://rayrshah.github.io/work/work/nyhs/</link>
+      <link>http://ray.thinkdesign.com/work/nyhs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/work/nyhs/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/nyhs/amrevKidsiPad.jpg&#34; alt=&#34;AmRev Online&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;New-York Historical Society’s extensive American Revolution-related collection of artifacts and documents were made available through the Web&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/nyhs/exhibitionInterfaceAmrev.png&#34; alt=&#34;AmRev Online&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The site featured a web based collections management application (CMA) used by many researchers, whose content fed straight into the website collection. Build-an-exhibition feature that enabled students and visitors to curate their own exhibitions online.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/nyhs/propserOrPerish.jpg&#34; alt=&#34;AmRev Online&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Recruitment&lt;/li&gt;
-&lt;li&gt;Project Management&lt;/li&gt;
-&lt;li&gt;Information Architeure&lt;/li&gt;
-&lt;li&gt;UX and UI development of public, museum, teacher and student-facing pages.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/work/nyhs/</guid>
+      <description>New-York Historical Society’s extensive American Revolution-related collection of artifacts and documents were made available through the Web
+The site featured a web based collections management application (CMA) used by many researchers, whose content fed straight into the website collection. Build-an-exhibition feature that enabled students and visitors to curate their own exhibitions online.
+ Recruitment Project Management Information Architeure UX and UI development of public, museum, teacher and student-facing pages.  </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://rayrshah.github.io/work/work/rss/</link>
+      <link>http://ray.thinkdesign.com/work/rss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/work/rss/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/work/rss/americanium100percent.jpg&#34; alt=&#34;Timeline Page&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Cultural news aggregation site that enables periodic updates from RSS, twitter, flickr and YouTube feeds.&lt;/p&gt;
-
-&lt;p&gt;This product was concieved by 24 Hour Museum journalist Jon Pratty, and used  guardian.com as inspiration for the content design patterns. Built on Drupal, all you do is pick interesting feeds, and the site updates itself!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Art Direction&lt;/li&gt;
-&lt;li&gt;Product Design&lt;/li&gt;
-&lt;li&gt;Startup&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/work/rss/</guid>
+      <description>Cultural news aggregation site that enables periodic updates from RSS, twitter, flickr and YouTube feeds.
+This product was concieved by 24 Hour Museum journalist Jon Pratty, and used guardian.com as inspiration for the content design patterns. Built on Drupal, all you do is pick interesting feeds, and the site updates itself!
+ Art Direction Product Design Startup  </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://rayrshah.github.io/work/work/serviceDesign/</link>
+      <link>http://ray.thinkdesign.com/work/servicedesign/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/work/serviceDesign/</guid>
-      <description>&lt;p&gt;How can catering service in the parks be improved while using existing facilities?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;img/work/serviceDesign/coffeeInThePark.jpg&#34; alt=&#34;Service Design&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On a busy day it can take an hour to order food.
-&lt;img src=&#34;img/work/serviceDesign/madLinesInTheCafe.jpg&#34; alt=&#34;Ordering a snack or meal is an ordeal.&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Feature list with novelty and usefulness rankings
-&lt;img src=&#34;img/work/serviceDesign/noveltyUsefulness.jpg&#34; alt=&#34;Service Design&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Investigating delivery possibilities using the park&amp;rsquo;s lakes.
-&lt;img src=&#34;img/work/serviceDesign/legoInThePark.jpg&#34; alt=&#34;Service Design&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Creativity Technique: Constraint removal scenarios without any technological restrictions.
-&lt;img src=&#34;img/work/serviceDesign/constraintRemoval.jpg&#34; alt=&#34;Constraint Removal&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Group Persona
-&lt;img src=&#34;img/work/serviceDesign/GroupPersonaSamCo.jpg&#34; alt=&#34;Group Persona&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Smart board advises on how long lines are at catering spots.
-&lt;img src=&#34;img/work/serviceDesign/img7.jpg&#34; alt=&#34;Service Design&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Final Scenario
-&lt;img src=&#34;img/work/serviceDesign/photo1.JPG&#34; alt=&#34;Service Design&#34; /&gt;
-&lt;img src=&#34;img/work/serviceDesign/photo2.JPG&#34; alt=&#34;Service Design&#34; /&gt;
-&lt;img src=&#34;img/work/serviceDesign/photo3.JPG&#34; alt=&#34;Service Design&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Mobile menus
-&lt;img src=&#34;img/work/serviceDesign/menu-options.jpg&#34; alt=&#34;Service Design&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;User Testing
-&lt;img src=&#34;img/work/serviceDesign/test-in-park2.jpg&#34; alt=&#34;User Testing&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ycqvwtxalrzj79b/VID_20140413_184759.mov&#34;&gt;&lt;img src=&#34;img/work/serviceDesign/test-in-park.jpg&#34; alt=&#34;User testing axure prototype&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/work/servicedesign/</guid>
+      <description>How can catering service in the parks be improved while using existing facilities?
+On a busy day it can take an hour to order food. Feature list with novelty and usefulness rankings Investigating delivery possibilities using the park&amp;rsquo;s lakes. Creativity Technique: Constraint removal scenarios without any technological restrictions. Group Persona Smart board advises on how long lines are at catering spots. Final Scenario Mobile menus User Testing</description>
     </item>
     
   </channel>

@@ -1,62 +1,205 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rayrshah.github.io/work/</loc>
+    <loc>http://ray.thinkdesign.com/post/20-lowy-framing-application/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/post/25-education-projects/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/post/10-selected-projects/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/post/15-service-design/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/work/citytech/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/work/licensing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/work/livingmuseum/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/work/lowy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/work/mo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/work/nyhs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/work/rss/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/work/servicedesign/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/tags/art-direction/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/work/post/20-lowy-framing-application/</loc>
+    <loc>http://ray.thinkdesign.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/tags/cloud/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/work/post/25-education-projects/</loc>
+    <loc>http://ray.thinkdesign.com/categories/cultural-heritage/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/work/post/10-selected-projects/</loc>
+    <loc>http://ray.thinkdesign.com/categories/education/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/work/post/15-service-design/</loc>
+    <loc>http://ray.thinkdesign.com/tags/ethnography/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/work/work/citytech/</loc>
+    <loc>http://ray.thinkdesign.com/tags/hardware/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/work/work/licensing/</loc>
+    <loc>http://ray.thinkdesign.com/tags/hardware-integration/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/work/work/livingMuseum/</loc>
+    <loc>http://ray.thinkdesign.com/tags/human-centred-design/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/work/work/lowy/</loc>
+    <loc>http://ray.thinkdesign.com/tags/information-architecture/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/work/work/mo/</loc>
+    <loc>http://ray.thinkdesign.com/categories/intranet/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/work/work/nyhs/</loc>
+    <loc>http://ray.thinkdesign.com/tags/legacy-integration/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/work/work/rss/</loc>
+    <loc>http://ray.thinkdesign.com/categories/mobile/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://rayrshah.github.io/work/work/serviceDesign/</loc>
+    <loc>http://ray.thinkdesign.com/categories/news/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/post/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/tags/product-design/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/categories/product-design/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/tags/project-management/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/categories/public-website/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/tags/requirements/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/tags/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/tags/user-interviews/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/tags/ux/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ray.thinkdesign.com/work/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

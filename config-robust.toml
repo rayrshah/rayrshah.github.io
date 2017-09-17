@@ -1,6 +1,6 @@
-baseurl = "http://rayrshah.github.io/portfolio/"
+baseurl = "http://ray.thinkdesign.com"
 languageCode = "en-us"
-title = "Ray Shah - Digital Product Designer"
+title = "Ray Shah - Digital Product & UX, Technology Instructor"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "portfolio"

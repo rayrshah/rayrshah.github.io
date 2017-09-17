@@ -2,458 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Requirements on Ray Shah - Digital Product Designer</title>
-    <link>http://rayrshah.github.io/work/tags/requirements/</link>
+    <link>http://ray.thinkdesign.com/tags/requirements/</link>
     <description>Recent content in Requirements on Ray Shah - Digital Product Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rayrshah.github.io/work/tags/requirements/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://ray.thinkdesign.com/tags/requirements/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Art Framing</title>
-      <link>http://rayrshah.github.io/work/post/20-lowy-framing-application/</link>
+      <link>http://ray.thinkdesign.com/post/20-lowy-framing-application/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/post/20-lowy-framing-application/</guid>
-      <description>
-
-&lt;h2 id=&#34;frame-search:6979efd3b17fef3a3f6df080ae321b47&#34;&gt;Frame Search&lt;/h2&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/lowy-sm.jpg&#34; alt=&#34;The final tool with search contained within the sidebar&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;&lt;/h4&gt;
-        &lt;p&gt;
-        The final tool with search contained within the sidebar
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.&lt;/p&gt;
-
-&lt;p&gt;This intranet tool allows high-quality capture of frames (through a SLR camera) and virtual compositing of customers’ works of art with Lowy’s frames. Lowy had built a compositing tool with IBM in the 90&amp;rsquo;s, and this is the tool we built to replace it.&lt;/p&gt;
-
-&lt;p&gt;The purpose of the tool is to allow customers to envisualize their beautiful artwork in a selection of frames. This greatly assists the sales team, as they don&amp;rsquo;t have to rely on customers imagination, they can show prospective customers exactly how their frames would look.&lt;/p&gt;
-
-&lt;p&gt;For customers, it reduces the risk, there&amp;rsquo;s a lot less guesswork involved, and seeing your picasso in a photorealistic context in a few frames will help you narrow down to the best fit.&lt;/p&gt;
-
-&lt;h2 id=&#34;early-wireframes:6979efd3b17fef3a3f6df080ae321b47&#34;&gt;Early Wireframes&lt;/h2&gt;
-
-&lt;div class=&#34;main-carousel js-flickity&#34;
-  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Frame-Finder-tabbed-1.png&#34; data-title=&#34;Faceted Frame Search&#34; data-description=&#34;Criteria from existing inventory used to populate the search page.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/functioning-prototype.png&#34; data-title=&#34;Early search prototype&#34; data-description=&#34;Working prototype for the search.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/framesView-action.jpg&#34; data-title=&#34;Later search prototype&#34; data-description=&#34;Later prototype is more compact.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Frame-Finder-tabbed-2.png&#34; data-title=&#34;Search Results&#34; data-description=&#34;Frames that match the search criteria&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Frame-Finder-tabbed-3.png&#34; data-title=&#34;Frame Detail&#34; data-description=&#34;Summary information about an individual frame.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Frame-Finder-tabbed-4.png&#34; data-title=&#34;Artwork Search/Upload&#34; data-description=&#34;Sales team members could search for existing artwork or upload something new.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Frame-Finder-tabbed-5.png&#34; data-title=&#34;Artwork Portfolio&#34; data-description=&#34;Client&#39;s art works assembled together.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Frame-Finder-tabbed-6.png&#34; data-title=&#34;Framed Art Composites&#34; data-description=&#34;This screen shows art applied to frames, to be reviewed by the client.&#34;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Once client requirements were understood, this initial wireframe shows workflow order:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Search for frame using multiple criteria.&lt;/li&gt;
-&lt;li&gt;Select desired frames from grid.&lt;/li&gt;
-&lt;li&gt;Review frame detail.&lt;/li&gt;
-&lt;li&gt;Add artwork.&lt;/li&gt;
-&lt;li&gt;Review uploaded artwork.&lt;/li&gt;
-&lt;li&gt;Review completed composite artwork and frame combinations.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;inventory-management-and-approach:6979efd3b17fef3a3f6df080ae321b47&#34;&gt;Inventory Management and Approach&lt;/h2&gt;
-
-&lt;div class=&#34;main-carousel js-flickity&#34;
-  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Lowy-maintenance-edit.png&#34; data-title=&#34;Initial Maintenance Screen&#34; data-description=&#34;&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/delete-frame.png&#34; data-title=&#34;Frame detail management&#34; data-description=&#34;&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Lowy-design-all-frames-view-sm.png&#34; data-title=&#34;Inventory view&#34; data-description=&#34;&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Lowy-maintenance-import-sm.png&#34; data-title=&#34;Frame import wireframe&#34; data-description=&#34;&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/lowy-workflow.png&#34; data-title=&#34;Proposed Scope and Approach&#34; data-description=&#34;This helped stakeholders understand proposed setup and validate our assumptions.&#34;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Searching for frames relies on good metadata. The metadata is entered and managed through the manage frame screen (wireframe and finished screen are shown).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Art Direction&lt;/li&gt;
-&lt;li&gt;Client Contact&lt;/li&gt;
-&lt;li&gt;Cloud setup&lt;/li&gt;
-&lt;li&gt;In house hardware selection and setup&lt;/li&gt;
-&lt;li&gt;Information Architecture&lt;/li&gt;
-&lt;li&gt;Product Design&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/post/20-lowy-framing-application/</guid>
+      <description>Frame Search    The final tool with search contained within the sidebar   Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.</description>
     </item>
     
     <item>
       <title>Education Projects</title>
-      <link>http://rayrshah.github.io/work/post/25-education-projects/</link>
+      <link>http://ray.thinkdesign.com/post/25-education-projects/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/post/25-education-projects/</guid>
-      <description>
-
-&lt;h2 id=&#34;teacher-training-website:d5835dedf58c95b0e01a7694649482d2&#34;&gt;Teacher Training Website&lt;/h2&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://rayrshah.github.io/work/images/city-technology.jpg&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;CUNY - City Technology&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Devised a simplified user input interface for adding text, video and image data. It allows for drag-and-drop arranging/re-arranging of elements once they have been added to the page.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;User Workshops&lt;/li&gt;
-&lt;li&gt;Needs Assessment&lt;/li&gt;
-&lt;li&gt;Recruiting&lt;/li&gt;
-&lt;li&gt;Information Arcitecture&lt;/li&gt;
-&lt;li&gt;Editorial UX&lt;/li&gt;
-&lt;li&gt;Informal User Testing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;living-museum:d5835dedf58c95b0e01a7694649482d2&#34;&gt;Living Museum&lt;/h2&gt;
-
-&lt;p&gt;The Living Museum program turns children into museum curators complete with an exhibition (typically in a school hall for one afternoon).&lt;br /&gt;
-This tool leaves a more lasting impression that can be shared with friends and family even after the event has concluded.  The software allows students to document their own artefacts from objects in their family, and their teachers to construct a complete exhibition sub-site.&lt;/p&gt;
-
-&lt;div class=&#34;main-carousel js-flickity&#34;
-  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/lm/lm-front.jpg&#34; alt=&#34;Living Museum&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/lm/exhibit-page.jpg&#34; alt=&#34;Exhibition Page&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/lm/living-museum-site-ia.png&#34; alt=&#34;Information Architecture&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/lm/exhibitionadministration5c.png&#34; alt=&#34;Teacher Exhibition Management Page&#34;&gt; 
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/lm/lmp_db_complete.png&#34; alt=&#34;Database Structure&#34;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In addition to scaffolding the exhibition for the children, interfaces were devised for their teachers and museum administrators. Site layout and page flow kept as simple as possible, with streamlined worflows for the 3 user types. Data relationships were kept as simple as possible.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Art Direction&lt;/li&gt;
-&lt;li&gt;Information Architecture&lt;/li&gt;
-&lt;li&gt;Product Design&lt;/li&gt;
-&lt;li&gt;Client Contact&lt;/li&gt;
-&lt;li&gt;Project Management&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;n-yhs-american-revolution-digital-media-project:d5835dedf58c95b0e01a7694649482d2&#34;&gt;N-YHS American Revolution Digital Media Project&lt;/h2&gt;
-
-&lt;p&gt;New-York Historical Society’s extensive revolution-related collection of artifacts and documents were made available through the Web.&lt;/p&gt;
-
-&lt;div class=&#34;main-carousel js-flickity&#34;
-  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/nyhs/amrevKids.jpg&#34; alt=&#34;Kids Site&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/nyhs/exhibitionInterfaceAmrev.png&#34; alt=&#34;Exhibition Editing/Composing Interface&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/nyhs/propserOrPerish.jpg&#34; alt=&#34;Decision-Based Role Game&#34;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The site featured a web based collections management application (CMA) used by many researchers, whose content fed straight into the website collection. Build-an-exhibition feature that enabled students and visitors to curate their own exhibitions online.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Recruitment&lt;/li&gt;
-&lt;li&gt;Project Management&lt;/li&gt;
-&lt;li&gt;Information Architeure&lt;/li&gt;
-&lt;li&gt;UX and UI development of public, museum, teacher and student-facing pages.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/post/25-education-projects/</guid>
+      <description>Teacher Training Website  CUNY - City Technology   Devised a simplified user input interface for adding text, video and image data. It allows for drag-and-drop arranging/re-arranging of elements once they have been added to the page.
+ User Workshops Needs Assessment Recruiting Information Arcitecture Editorial UX Informal User Testing  Living Museum The Living Museum program turns children into museum curators complete with an exhibition (typically in a school hall for one afternoon).</description>
     </item>
     
     <item>
       <title>Selected Work</title>
-      <link>http://rayrshah.github.io/work/post/10-selected-projects/</link>
+      <link>http://ray.thinkdesign.com/post/10-selected-projects/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/post/10-selected-projects/</guid>
-      <description>
-
-&lt;h2 id=&#34;rss-newsfeed-site:9e4839c470a16e8b1fa86c481531d037&#34;&gt;RSS Newsfeed Site&lt;/h2&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://rayrshah.github.io/work/images/americanium.jpg&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Americanium&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Cultural news aggregation site with a custom RSS module that enables periodic updates from RSS, twitter, flickr and YouTube feeds.&lt;/p&gt;
-
-&lt;p&gt;This product was concieved by 24 Hour Museum journalist Jon Pratty, and used  guardian.com as inspiration for the content design patterns. Built on Drupal, all you do is pick interesting feeds, and the site updates itself!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Art Direction&lt;/li&gt;
-&lt;li&gt;Product Design&lt;/li&gt;
-&lt;li&gt;Startup&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;retail:9e4839c470a16e8b1fa86c481531d037&#34;&gt;Retail&lt;/h2&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://rayrshah.github.io/work/images/dkny.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Girogio Armani and DKNY Commissions Management System and Flash Sales
-Commisions management built on top of existing sales audit and employee database systems, it allows sales staff to see how much commission they have earned from any point of sale terminal.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Needs Assessment&lt;/li&gt;
-&lt;li&gt;Recruiting&lt;/li&gt;
-&lt;li&gt;Product Design&lt;/li&gt;
-&lt;li&gt;Intranet&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;steve-museum:9e4839c470a16e8b1fa86c481531d037&#34;&gt;steve.museum&lt;/h2&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://rayrshah.github.io/work/images/steve_inside_object.jpg&#34; alt=&#34;Social Cataloguing for Art Museums. Founding member of the steve community, as well as the primary technical vendor for the tagger and databases.&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;&lt;/h4&gt;
-        &lt;p&gt;
-        Social Cataloguing for Art Museums. Founding member of the steve community, as well as the primary technical vendor for the tagger and databases.
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;ul&gt;
-&lt;li&gt;Recruitment&lt;/li&gt;
-&lt;li&gt;Ideation&lt;/li&gt;
-&lt;li&gt;Testing&lt;/li&gt;
-&lt;li&gt;Project Management&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;metropolitan-museum-of-art:9e4839c470a16e8b1fa86c481531d037&#34;&gt;Metropolitan Museum of Art&lt;/h2&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://rayrshah.github.io/work/images/labels.png&#34; alt=&#34;Discovery, needs assessment and specification document for project that became the basis of an RFP.&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt; Workflow of Proposed Labels Automation System&lt;/h4&gt;
-        &lt;p&gt;
-        Discovery, needs assessment and specification document for project that became the basis of an RFP.
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;ul&gt;
-&lt;li&gt;User/Stakeholder Interviews&lt;/li&gt;
-&lt;li&gt;Needs Assessment&lt;/li&gt;
-&lt;li&gt;Workflow Optimisation&lt;/li&gt;
-&lt;li&gt;Specification Report&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;image-licensing-library:9e4839c470a16e8b1fa86c481531d037&#34;&gt;Image Licensing Library&lt;/h2&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://rayrshah.github.io/work/images/art-resource.jpg&#34; alt=&#34;Art Resource is a fine art image-licensing library with multiple sources. We developed a new design that treats all the sources fairly, and allows multiple ways of navigating through the hundreds of thousands of images available.&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;&lt;/h4&gt;
-        &lt;p&gt;
-        Art Resource is a fine art image-licensing library with multiple sources. We developed a new design that treats all the sources fairly, and allows multiple ways of navigating through the hundreds of thousands of images available.
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;ul&gt;
-&lt;li&gt;Needs Assessment&lt;/li&gt;
-&lt;li&gt;Expert usability evaluation&lt;/li&gt;
-&lt;li&gt;Prototyping&lt;/li&gt;
-&lt;li&gt;Feature discussions with vendor&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;conference-event-website:9e4839c470a16e8b1fa86c481531d037&#34;&gt;Conference Event Website&lt;/h2&gt;
-
-&lt;div class=&#34;main-carousel js-flickity&#34;
-  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/mo/student-events.jpg&#34; alt=&#34;Student Events Page&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/mo/arabic.png&#34; alt=&#34;Arabic Front Page&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/mo/vision.png&#34; alt=&#34;Mission Statement in English&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/mo/wireframe-icograda-mousharaka.png&#34; alt=&#34;Early Working Wireframe&#34;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Mousharaka graphic design conference was the first of its kind in Doha. Hired by Virginia Commonwealth University to execute the website for the conference&lt;/p&gt;
-
-&lt;p&gt;We designed dual language interface (Arabic/English), and interfaced with online conference paper manager.&lt;/p&gt;
-
-&lt;p&gt;In addition to implementation, I arranged secure hosting for the site.&lt;/p&gt;
-
-&lt;p&gt;Menu structures for both English and Arabic content were fine tuned here, to ensure they made sense and provided good wayfinding for both audiences.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Project Management&lt;/li&gt;
-&lt;li&gt;Client content&lt;/li&gt;
-&lt;li&gt;Recruitment of Technical Talent&lt;/li&gt;
-&lt;li&gt;Set up Server and Hosting&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/post/10-selected-projects/</guid>
+      <description>RSS Newsfeed Site  Americanium   Cultural news aggregation site with a custom RSS module that enables periodic updates from RSS, twitter, flickr and YouTube feeds.
+This product was concieved by 24 Hour Museum journalist Jon Pratty, and used guardian.com as inspiration for the content design patterns. Built on Drupal, all you do is pick interesting feeds, and the site updates itself!
+ Art Direction Product Design Startup  Retail  Girogio Armani and DKNY Commissions Management System and Flash Sales Commisions management built on top of existing sales audit and employee database systems, it allows sales staff to see how much commission they have earned from any point of sale terminal.</description>
     </item>
     
     <item>
       <title>Service Design</title>
-      <link>http://rayrshah.github.io/work/post/15-service-design/</link>
+      <link>http://ray.thinkdesign.com/post/15-service-design/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/post/15-service-design/</guid>
-      <description>
-
-&lt;h2 id=&#34;catering-in-the-royal-parks:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Catering in the Royal Parks&lt;/h2&gt;
-
-&lt;p&gt;A student group project aimed to discover novel ways of providing better catering while using existing facilities in London&amp;rsquo;s Royal Parks.&lt;/p&gt;
-
-&lt;p&gt;Our brief was to find more diverse ways to offer catering services and to support users to make more effective use of them.&lt;/p&gt;
-
-&lt;h3 id=&#34;ethnography:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Ethnography&lt;/h3&gt;
-
-&lt;p&gt;To inform this project users were observed, documented and engaged regarding why they were there and how they intended to spend time in the park.&lt;/p&gt;
-
-&lt;div class=&#34;main-carousel js-flickity&#34;
-  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src= &#34;/portfolio/images/parks/coffeeInThePark.jpg&#34;  alt=&#34;Sunset at Serpentine Cafe&#34; /&gt;
-    &lt;img src= &#34;/portfolio/images/parks/madLinesInTheCafe.jpg&#34; alt=&#34;Intense Lines Waiting for Self-Service&#34; /&gt;   
-    &lt;img src= &#34;/portfolio/images/parks/lineRegister.jpg&#34; alt=&#34;More Lines&#34; /&gt;
-    &lt;img src= &#34;/portfolio/images/parks/kioskLines.jpg&#34; alt=&#34;The Kiosk has Lines&#34; /&gt;
-&lt;/div&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://rayrshah.github.io/work/images/parks/GroupPersonaSamCo.jpg&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Group Persona of some 30 somethings&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;idea-generation:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Idea Generation&lt;/h3&gt;
-
-&lt;div class=&#34;main-carousel js-flickity&#34;
-  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src= &#34;/portfolio/images/parks/legoInThePark.jpg&#34; alt=&#34;Lego and Plasticine Modelling&#34; data-description=&#34;Proposals to improve park services.&#34;&gt;
-    &lt;img src= &#34;/portfolio/images/parks/constraintRemoval.jpg&#34; alt=&#34;Structured brainstorming constraint removed: Technology.&#34; caption=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Idea generation techniques used included constraint removal and modelling. Many ideas were generated through these exercises, some were novel and useful.&lt;/p&gt;
-
-&lt;h2 id=&#34;novely-and-utility:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Novely and Utility&lt;/h2&gt;
-
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://rayrshah.github.io/work/images/parks/noveltyUsefulness.jpg&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Evaluating usefulness of ideas&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-The best ideas were examined on how useful and how novel they were. Those which were both were most likely to be adopted.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;scenario-sketching-with-remote-tools:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Scenario Sketching with Remote Tools&lt;/h3&gt;
-
-&lt;div class=&#34;main-carousel js-flickity&#34;
-  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src= &#34;/portfolio/images/parks/SBFrame1.jpg&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/portfolio/images/parks/SBFrame2.jpg&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/portfolio/images/parks/SBFrame3.jpg&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/portfolio/images/parks/SBFrame4.jpg&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/portfolio/images/parks/SBFrame5.jpg&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In this scenario a family goes to the park and uses a smart map near the entrance to identify available catering services and see what the wait time is for each.&lt;/p&gt;
-
-&lt;h3 id=&#34;scenario-sketches:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;Scenario Sketches&lt;/h3&gt;
-
-&lt;div class=&#34;main-carousel js-flickity&#34;
-  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src= &#34;/portfolio/images/parks/photo1.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/portfolio/images/parks/photo2.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-    &lt;img src= &#34;/portfolio/images/parks/photo3.JPG&#34; alt=&#34;Scenario Sketch&#34; caption=&#34;&#34;&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&#34;user-tests:5b91bfc92e25cd66de2a3d318cbdd0f6&#34;&gt;User Tests&lt;/h3&gt;
-
-&lt;video width=&#34;600px&#34; src=&#34;http://rayrshah.github.io/work/images/parks/user-test-in-the-park.ogg&#34; controls&gt;
-&lt;/video&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/post/15-service-design/</guid>
+      <description>Catering in the Royal Parks A student group project aimed to discover novel ways of providing better catering while using existing facilities in London&amp;rsquo;s Royal Parks.
+Our brief was to find more diverse ways to offer catering services and to support users to make more effective use of them.
+Ethnography To inform this project users were observed, documented and engaged regarding why they were there and how they intended to spend time in the park.</description>
     </item>
     
   </channel>

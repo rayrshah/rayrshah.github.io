@@ -9,10 +9,10 @@ title = "Clients"
     logo   = "logo1.png"
 
 [[list]]
-    avatar = "face-cynthia.jpg"
-    name   = "Cynthia Copeland"
-    title  = "Director American Revolution Digitization Project"
-    quote  = "**Ray and his team enabled us realize this project**, from object and document digitization to the student interface for publishing an online exhibition. Object QTVR, mouse-over transcripts of handwritten documents and the games were highlights of this extensive work."
+    avatar = "face-jessica.jpg"
+    name   = "Jessica Davis"
+    title  = "American Revolution Digitization Project"
+    quote  = "**Ray and his team enabled us realize this project**, from object and document digitization to the student interface for publishing an online exhibition. VR rendering of objects, mouse-over transcripts of handwritten documents and the games were highlights of this extensive work."
     logo   = "logo2.png"
 
 [[list]]

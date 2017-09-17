@@ -1,13 +1,13 @@
 # Site settings
-baseurl = "http://rayrshah.github.io/work/"
+baseurl = "http://ray.thinkdesign.com/"
 languageCode = "en-us"
 title = "Ray Shah - Digital Product Designer"
 theme = "hugo-artists-theme"
 publishdir = "work"
 
 [params]
-	
-	# make room for custom CSS 
+
+	# make room for custom CSS
     custom_css = ["css/custom.css"]
 
 	# You can use Markdown syntax for urls [text](//url.to/source) for
@@ -16,7 +16,7 @@ publishdir = "work"
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Ray Shah"
-	description = "Product  Designer"
+	description = "Instructor, Product Manager"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
@@ -47,7 +47,7 @@ publishdir = "work"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "What I Do"
-		bio = "**I solve real-world problems through digital solutions.** As principal at [think design](//thinkdesign.com) I work with [arts, cultural heritage institutions](//thinkdesign.com), businesses and universities discovering  digital consumer needs and wants, designing new ways to do business, to learn and make product."
+		bio = "**I solve real-world problems through digital solutions.** As principal at [think design](//thinkdesign.com) I work with [arts, cultural heritage institutions](#work), businesses and universities discovering  digital consumer needs and wants, designing new ways to do business, to learn and make product."
 
 	[params.how]
 		title = "How I Do It"
@@ -79,7 +79,6 @@ publishdir = "work"
 			icon = "linkedin"
 			link = "//www.linkedin.com/in/rayshah"
 
-
 	[params.form]
 		title = "Let's work together"
 		# Form fields
@@ -87,7 +86,7 @@ publishdir = "work"
 		email = "Your Email"
 		message = "Tell me about your project"
 		buttonText = "Send"
-
+		# needs to be hidden _next = value="//ray.thinkdesign.com/thanks.html"
 
 	[params.footer]
-		copyright = "Copyright 2016 Ray Shah"
+		copyright = "Copyright 2017 Ray Shah"

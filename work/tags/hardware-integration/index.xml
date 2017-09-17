@@ -2,99 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hardware Integration on Ray Shah - Digital Product Designer</title>
-    <link>http://rayrshah.github.io/work/tags/hardware-integration/</link>
+    <link>http://ray.thinkdesign.com/tags/hardware-integration/</link>
     <description>Recent content in Hardware Integration on Ray Shah - Digital Product Designer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rayrshah.github.io/work/tags/hardware-integration/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://ray.thinkdesign.com/tags/hardware-integration/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Art Framing</title>
-      <link>http://rayrshah.github.io/work/post/20-lowy-framing-application/</link>
+      <link>http://ray.thinkdesign.com/post/20-lowy-framing-application/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://rayrshah.github.io/work/post/20-lowy-framing-application/</guid>
-      <description>
-
-&lt;h2 id=&#34;frame-search:6979efd3b17fef3a3f6df080ae321b47&#34;&gt;Frame Search&lt;/h2&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/lowy-sm.jpg&#34; alt=&#34;The final tool with search contained within the sidebar&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;&lt;/h4&gt;
-        &lt;p&gt;
-        The final tool with search contained within the sidebar
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.&lt;/p&gt;
-
-&lt;p&gt;This intranet tool allows high-quality capture of frames (through a SLR camera) and virtual compositing of customers’ works of art with Lowy’s frames. Lowy had built a compositing tool with IBM in the 90&amp;rsquo;s, and this is the tool we built to replace it.&lt;/p&gt;
-
-&lt;p&gt;The purpose of the tool is to allow customers to envisualize their beautiful artwork in a selection of frames. This greatly assists the sales team, as they don&amp;rsquo;t have to rely on customers imagination, they can show prospective customers exactly how their frames would look.&lt;/p&gt;
-
-&lt;p&gt;For customers, it reduces the risk, there&amp;rsquo;s a lot less guesswork involved, and seeing your picasso in a photorealistic context in a few frames will help you narrow down to the best fit.&lt;/p&gt;
-
-&lt;h2 id=&#34;early-wireframes:6979efd3b17fef3a3f6df080ae321b47&#34;&gt;Early Wireframes&lt;/h2&gt;
-
-&lt;div class=&#34;main-carousel js-flickity&#34;
-  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Frame-Finder-tabbed-1.png&#34; data-title=&#34;Faceted Frame Search&#34; data-description=&#34;Criteria from existing inventory used to populate the search page.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/functioning-prototype.png&#34; data-title=&#34;Early search prototype&#34; data-description=&#34;Working prototype for the search.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/framesView-action.jpg&#34; data-title=&#34;Later search prototype&#34; data-description=&#34;Later prototype is more compact.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Frame-Finder-tabbed-2.png&#34; data-title=&#34;Search Results&#34; data-description=&#34;Frames that match the search criteria&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Frame-Finder-tabbed-3.png&#34; data-title=&#34;Frame Detail&#34; data-description=&#34;Summary information about an individual frame.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Frame-Finder-tabbed-4.png&#34; data-title=&#34;Artwork Search/Upload&#34; data-description=&#34;Sales team members could search for existing artwork or upload something new.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Frame-Finder-tabbed-5.png&#34; data-title=&#34;Artwork Portfolio&#34; data-description=&#34;Client&#39;s art works assembled together.&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Frame-Finder-tabbed-6.png&#34; data-title=&#34;Framed Art Composites&#34; data-description=&#34;This screen shows art applied to frames, to be reviewed by the client.&#34;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Once client requirements were understood, this initial wireframe shows workflow order:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Search for frame using multiple criteria.&lt;/li&gt;
-&lt;li&gt;Select desired frames from grid.&lt;/li&gt;
-&lt;li&gt;Review frame detail.&lt;/li&gt;
-&lt;li&gt;Add artwork.&lt;/li&gt;
-&lt;li&gt;Review uploaded artwork.&lt;/li&gt;
-&lt;li&gt;Review completed composite artwork and frame combinations.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;inventory-management-and-approach:6979efd3b17fef3a3f6df080ae321b47&#34;&gt;Inventory Management and Approach&lt;/h2&gt;
-
-&lt;div class=&#34;main-carousel js-flickity&#34;
-  data-flickity-options=&#39;{ &#34;imagesLoaded&#34;: true,&#34;cellAlign&#34;: &#34;left&#34;, &#34;contain&#34;: true,  &#34;accessibility&#34;: true }&#39;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Lowy-maintenance-edit.png&#34; data-title=&#34;Initial Maintenance Screen&#34; data-description=&#34;&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/delete-frame.png&#34; data-title=&#34;Frame detail management&#34; data-description=&#34;&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Lowy-design-all-frames-view-sm.png&#34; data-title=&#34;Inventory view&#34; data-description=&#34;&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/Lowy-maintenance-import-sm.png&#34; data-title=&#34;Frame import wireframe&#34; data-description=&#34;&#34;&gt;
-    &lt;img src=&#34;http://rayrshah.github.io/work/images/frames/lowy-workflow.png&#34; data-title=&#34;Proposed Scope and Approach&#34; data-description=&#34;This helped stakeholders understand proposed setup and validate our assumptions.&#34;&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Searching for frames relies on good metadata. The metadata is entered and managed through the manage frame screen (wireframe and finished screen are shown).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Art Direction&lt;/li&gt;
-&lt;li&gt;Client Contact&lt;/li&gt;
-&lt;li&gt;Cloud setup&lt;/li&gt;
-&lt;li&gt;In house hardware selection and setup&lt;/li&gt;
-&lt;li&gt;Information Architecture&lt;/li&gt;
-&lt;li&gt;Product Design&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://ray.thinkdesign.com/post/20-lowy-framing-application/</guid>
+      <description>Frame Search    The final tool with search contained within the sidebar   Lowy specialises in fine art antique and reproduction frames. They work with top galleries and museums in New York and across the world. Their clients are often very busy, and once they have aquired a work of art, they simply want a frame that fits their decor, budget and the work of art itself.</description>
     </item>
     
   </channel>

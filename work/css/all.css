@@ -660,7 +660,10 @@ header {
     header h1 {
       padding-top: 0px; } }
 footer {
-  background-image: url(../img/logo.svg), url(../img/hero-bg.jpg); }
+  background-image: url(../img/logo.svg), url(../img/hero-bg.jpg); 
+  background-size: 50px 50px, cover;
+  background-position: 15px 10px, 50% 50%;
+  }
   footer .lockup {
     padding: 50px 30px; }
     footer .lockup:after {
@@ -776,7 +779,12 @@ footer {
       background-repeat: no-repeat;
       margin: 0 auto 30px; }
     .face-lockup [class^="icon-"] {
-      margin: 10px 9%; } }
+      margin: 10px 9%; } 
+    footer{
+      background-size: 40px 40px, cover;
+      background-position: 5px 10px, 50% 50%;
+      }
+    }
 .blurb {
   max-width: 620px;
   padding: 0 20px;

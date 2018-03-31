@@ -1,17 +1,92 @@
-baseurl = "/"
+# Site settings
+baseurl = "http://ray.thinkdesign.com/"
 languageCode = "en-us"
-title = "Ray Shah - Product Designer"
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-builddrafts = false
-canonifyurls = true
-theme = "robust"
+title = "Ray Shah - Digital Product Designer"
+theme = "hugo-artists-theme"
+publishdir = "work"
 
 [params]
-	AuthorName = "Ray Shah"
-	SiteDesc = "Portfolio of Ray Shah"
 
-[taxonomies]
-  category = "categories"
-  tag = "tags"
+	# make room for custom CSS
+    custom_css = ["css/custom.css"]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Ray Shah"
+	description = "Instructor, Product Manager"
+
+	# Since this template is static, the contact form uses www.formspree.io as a
+	# proxy. The form makes a POST request to their servers to send the actual
+	# email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+	email = "rayshah@thinkdesign.com"
+
+
+	# Header and navigation
+	#
+	# To change the header background the 'hero-bg-jpg' at 'static/img'.
+	# Do the same with the logo ('logo.svg').
+	# But keep the original filename!
+	[params.header]
+		title = "Bridge The Gap"
+		shortBio = "Between client perception and user reality"
+
+
+	# About section
+	#
+	# Replace the 'avatar.jpg' under 'static/img' with your own image.
+	[params.about]
+		title = "What I Do"
+		bio = "**I solve real-world problems through digital solutions.** As principal at [think design](//thinkdesign.com) I work with [arts, cultural heritage institutions](#work), businesses and universities discovering  digital consumer needs and wants, designing new ways to do business, to learn and make product."
+
+	[params.how]
+		title = "How I Do It"
+		discover = "**Discover** <br>Understand the business, validate user needs & opportunities, research the competitive landscape. Answer essential questions like: how do people actually interact with the brand? Through combinations of focus groups, observation and user tests. Identify essential features."
+		validate = "**Build &amp; Validate** <br>Generate original concepts. Test and incorporate findings into next round of prototypes. Refine features, interactions and visual design based on user feedback. Iterate until a powerful, near perfect product has been realised."
+
+	# Contact section
+	[params.contact]
+		title = "Contact"
+
+		# The following social network icons are available:
+		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
+		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+		[[params.contact.social]]
+			icon = "twitter"
+			link = "//twitter.com/rayshah"
+
+		[[params.contact.social]]
+			icon = "facebook"
+			link = "//facebook.com/rayshah"
+
+
+		[[params.contact.social]]
+			icon = "instagram"
+			link = "//instagram.com/raypicman"
+
+
+		[[params.contact.social]]
+			icon = "linkedin"
+			link = "//www.linkedin.com/in/rayshah"
+
+	[params.form]
+		title = "Let's work together"
+		# Form fields
+		name = "Your Name"
+		email = "Your Email"
+		message = "Tell me about your project"
+		buttonText = "Send"
+		# needs to be hidden _next = value="//ray.thinkdesign.com/thanks.html"
+
+	[params.footer]
+		copyright = "Copyright 2017 Ray Shah"

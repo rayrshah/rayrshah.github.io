@@ -1,0 +1,34 @@
+# Section title
+title = "Work"
+
+[[projects]]
+    name = "Art Frame Search"
+    folder = "lowy"
+
+[[projects]]
+    name = "New York Historical Society"
+    folder = "nyhs"
+
+[[projects]]
+    name = "City Technology"
+    folder = "citytech"
+
+[[projects]]
+    name = "Living Museum"
+    folder = "livingMuseum"
+
+[[projects]]
+    name = "RSS News Site"
+    folder = "rss"
+
+[[projects]]
+    name = "Image Licensing Library"
+    folder = "licensing"
+
+[[projects]]
+    name = "Conference Site"
+    folder = "mo"
+
+[[projects]]
+    name = "Service Design"
+    folder = "serviceDesign"

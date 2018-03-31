@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Design on Ray Shah - Digital Product Designer</title>
+    <link>http://ray.thinkdesign.com/tags/product-design/</link>
+    <description>Recent content in Product Design on Ray Shah - Digital Product Designer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ray.thinkdesign.com/tags/product-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Education Projects</title>
+      <link>http://ray.thinkdesign.com/post/25-education-projects/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://ray.thinkdesign.com/post/25-education-projects/</guid>
+      <description>Teacher Training Website  CUNY - City Technology   Devised a simplified user input interface for adding text, video and image data. It allows for drag-and-drop arranging/re-arranging of elements once they have been added to the page.
+ User Workshops Needs Assessment Recruiting Information Arcitecture Editorial UX Informal User Testing  Living Museum The Living Museum program turns children into museum curators complete with an exhibition (typically in a school hall for one afternoon).</description>
+    </item>
+    
+  </channel>
+</rss>

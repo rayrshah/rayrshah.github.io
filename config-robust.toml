@@ -1,0 +1,17 @@
+baseurl = "http://ray.thinkdesign.com"
+languageCode = "en-us"
+title = "Ray Shah - Digital Product & UX, Technology Instructor"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "portfolio"
+builddrafts = false
+canonifyurls = true
+theme = "robust"
+
+[params]
+	AuthorName = "Ray Shah"
+	SiteDesc = "Portfolio of Ray Shah"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

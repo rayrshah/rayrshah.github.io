@@ -1,0 +1,45 @@
+<section class="alt-section section-work">
+    {{ with .Site.Data.work.title }}<h3 id="work">{{ . }}</h3>{{ end }}
+
+    {{ range .Site.Data.work.projects }}
+    <input type="radio" name="trigger" class="trigger" id="{{ .folder }}" />
+    {{ end }}
+    <input type="radio" name="trigger" id="return" class="return" />
+    <div class="work-belt">
+        <div class="thumb-wrap">
+            <div class="thumb-container">
+                {{ range .Site.Data.work.projects }}
+                <label for="{{ .folder }}">
+                    <div class="thumb-unit" data-folder="{{ .folder }}">
+                        <img src="img/work/{{.folder}}/thumb.jpg" alt="{{ .name }}" />
+                    </div>
+                    <div class="thumb-overlay">
+                        <strong>{{ .name }}</strong>
+                    </div>
+                </label>
+                {{ end }}
+            </div>
+        </div>
+        <div class="work-wrap">
+            <div class="work-container">
+                <label for="return">
+                    <div class="work-return"><a href="#work">{{ partial "icons/icon-back.html" . }}</a></div>
+                </label>
+                <h4 class="project-title"></h4>
+                <div class="project-load"></div>
+                <noscript>
+                    {{ range .Site.Data.work.projects }}
+                    <div class="noscript" id="content-{{ .folder }}">
+                        <h4 class="project-title">{{ .name }}</h4>
+                    </div>
+                    {{ end }}
+                </noscript>
+            </div>
+            <div class="work-container" style="margin: 5em auto 0;">
+                <label for="return">
+                    <div class="work-return" style="width: 50em; display: inline;"><a href="#work">{{ partial "icons/icon-back.html" . }}<h4 style="margin: -40px 0 20px 55px;">back to work</h4></a></div>
+                </label>
+            </div>
+        </div>
+    </div>
+</section>

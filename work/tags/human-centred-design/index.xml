@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human Centred Design on Ray Shah - Digital Product Designer</title>
+    <link>http://ray.thinkdesign.com/tags/human-centred-design/</link>
+    <description>Recent content in Human Centred Design on Ray Shah - Digital Product Designer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ray.thinkdesign.com/tags/human-centred-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Service Design</title>
+      <link>http://ray.thinkdesign.com/post/15-service-design/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://ray.thinkdesign.com/post/15-service-design/</guid>
+      <description>Catering in the Royal Parks A student group project aimed to discover novel ways of providing better catering while using existing facilities in London&amp;rsquo;s Royal Parks.
+Our brief was to find more diverse ways to offer catering services and to support users to make more effective use of them.
+Ethnography To inform this project users were observed, documented and engaged regarding why they were there and how they intended to spend time in the park.</description>
+    </item>
+    
+  </channel>
+</rss>

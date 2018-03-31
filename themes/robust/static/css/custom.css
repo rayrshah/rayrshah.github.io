@@ -131,4 +131,20 @@ header.site .title a {
  figcaption {
  	margin-top: 0.5em;
  }
+
+.caption {
+  background: #FAFAFA;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+.flickity-page-dots {
+	bottom: 10px;
+}
+
+.main-carousel {
+	margin-bottom: 2em;
+}
+
 	

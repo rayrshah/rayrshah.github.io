@@ -1,0 +1,19 @@
+{{ "<!-- How section -->" | safeHTML }}
+<section >
+    <div id="how">  
+    {{ with .Site.Params.how.title }}<h3 id="how">{{ . }}</h3>{{ end }}
+
+ 
+    {{ with .Site.Params.how.discover }}
+    <div class="blurb">
+        <br><p>{{ . | markdownify }}</p>
+    {{ end }}
+     {{ with .Site.Params.how.validate }}
+        <p>{{ . | markdownify }}</p><br>
+    </div>
+            <p>&nbsp;</p>
+
+    {{ end }}
+
+    </div>
+</section>

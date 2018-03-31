@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ray Shah - Digital Product Designer</title>
+    <link>http://ray.thinkdesign.com/categories/</link>
+    <description>Recent content in Categories on Ray Shah - Digital Product Designer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://ray.thinkdesign.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cultural Heritage</title>
+      <link>http://ray.thinkdesign.com/categories/cultural-heritage/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://ray.thinkdesign.com/categories/cultural-heritage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://ray.thinkdesign.com/categories/education/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://ray.thinkdesign.com/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intranet</title>
+      <link>http://ray.thinkdesign.com/categories/intranet/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://ray.thinkdesign.com/categories/intranet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile</title>
+      <link>http://ray.thinkdesign.com/categories/mobile/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://ray.thinkdesign.com/categories/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://ray.thinkdesign.com/categories/news/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://ray.thinkdesign.com/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Design</title>
+      <link>http://ray.thinkdesign.com/categories/product-design/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://ray.thinkdesign.com/categories/product-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Website</title>
+      <link>http://ray.thinkdesign.com/categories/public-website/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://ray.thinkdesign.com/categories/public-website/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

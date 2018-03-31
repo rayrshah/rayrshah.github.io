@@ -6,3 +6,13 @@ public/posts/.DS_Store
 static/.DS_Store
 static/images/.DS_Store
 themes/.DS_Store
+
+.DS_Store
+
+<<<<<<< HEAD
+static/.DS_Store
+
+static/images/.DS_Store
+=======
+.DS_Store
+>>>>>>> artist

@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://ray.thinkdesign.com/"
 languageCode = "en-us"
-title = "Ray Shah - Digital Product Designer"
+title = "Think Design - Digital Product"
 theme = "hugo-artists-theme"
 publishdir = "work"
 
@@ -15,8 +15,8 @@ publishdir = "work"
 
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Ray Shah"
-	description = "Instructor, Product Manager"
+	name = "Think Design"
+	description = "Project Management, Digital Product"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
@@ -38,20 +38,20 @@ publishdir = "work"
 	# Do the same with the logo ('logo.svg').
 	# But keep the original filename!
 	[params.header]
-		title = "Bridge The Gap"
-		shortBio = "Between client perception and user reality"
+		title = "Think Design"
+		shortBio = "Bridge the Gap - Between client perception and user reality"
 
 
 	# About section
 	#
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
-		title = "What I Do"
-		bio = "**I solve real-world problems through digital solutions.** As principal at [think design](//thinkdesign.com) I work with [arts, cultural heritage institutions](#work), businesses and universities discovering  digital consumer needs and wants, designing new ways to do business, to learn and make product."
+		title = "What we  Do"
+		bio = "**Solving real-world problems through digital solutions.** At [think design](//thinkdesign.com) we work with [arts, cultural heritage institutions](#work), businesses and universities discovering  consumer needs and wants, designing new ways to do business, to learn and make digital product."
 
 	[params.how]
-		title = "How I Do It"
-		discover = "**Discover** <br>Understand the business, validate user needs & opportunities, research the competitive landscape. Answer essential questions like: how do people actually interact with the brand? Through combinations of focus groups, observation and user tests. Identify essential features."
+		title = "How We Do It"
+		discover = "**Discover** <br>Understand the business, validate user needs & opportunities, research the competitive landscape. Answer essential questions like: \"*How do people percieve and interact with the brand?*\" Through combinations of focus groups, observation and user tests. Identify essential features."
 		validate = "**Build &amp; Validate** <br>Generate original concepts. Test and incorporate findings into next round of prototypes. Refine features, interactions and visual design based on user feedback. Iterate until a powerful, near perfect product has been realised."
 
 	# Contact section
@@ -89,4 +89,4 @@ publishdir = "work"
 		# needs to be hidden _next = value="//ray.thinkdesign.com/thanks.html"
 
 	[params.footer]
-		copyright = "Copyright 2017 Ray Shah"
+		copyright = "Copyright 2018 Think Design"

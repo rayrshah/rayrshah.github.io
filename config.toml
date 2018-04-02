@@ -1,9 +1,9 @@
 # Site settings
-baseurl = "http://ray.thinkdesign.com/"
+baseurl = ""
 languageCode = "en-us"
 title = "Think Design - Digital Product"
 theme = "hugo-artists-theme"
-publishdir = "work"
+#publishdir = "work"
 
 [params]
 
@@ -86,7 +86,7 @@ publishdir = "work"
 		email = "Your Email"
 		message = "Tell me about your project"
 		buttonText = "Send"
-		# needs to be hidden _next = value="//ray.thinkdesign.com/thanks.html"
+		# needs to be hidden _next = value="//thinkdesign.com/thanks.html"
 
 	[params.footer]
 		copyright = "Copyright 2018 Think Design"

@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Works on Ray Shah - Digital Product Designer</title>
+    <title>Works on Think Design - Digital Product</title>
     <link>http://ray.thinkdesign.com/work/</link>
-    <description>Recent content in Works on Ray Shah - Digital Product Designer</description>
+    <description>Recent content in Works on Think Design - Digital Product</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="http://ray.thinkdesign.com/work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://ray.thinkdesign.com/work/barnesnoble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ray.thinkdesign.com/work/barnesnoble/</guid>
+      <description>Polling stores reliably and efficiently was getting tougher as Barnes &amp;amp; Noble College Booksellers expanded to over six hundred colleges, each with its own set of holidays. Our solution integrates directly with the main sales database for the whole organization, can be accessed from any POS terminal.
+It provides a simple interface so store managers click on dates they were open and closed. It sends them a polite reminder in case they forget to update next months calendar.</description>
+    </item>
     
     <item>
       <title></title>
@@ -94,6 +104,16 @@ This product was concieved by 24 Hour Museum journalist Jon Pratty, and used gua
       <guid>http://ray.thinkdesign.com/work/servicedesign/</guid>
       <description>How can catering service in the parks be improved while using existing facilities?
 On a busy day it can take an hour to order food. Feature list with novelty and usefulness rankings Investigating delivery possibilities using the park&amp;rsquo;s lakes. Creativity Technique: Constraint removal scenarios without any technological restrictions. Group Persona Smart board advises on how long lines are at catering spots. Final Scenario Mobile menus User Testing</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ray.thinkdesign.com/work/thewalters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ray.thinkdesign.com/work/thewalters/</guid>
+      <description>This is real-time scholarship where curators can instantly share new discoveries on objects from the museum’s collections with people who may not be able to visit the Walters in person. - Museum Director Gary Vikan
+ Stakeholder Workshops Needs Assessment Recruiting Information Architecture Editorial UX Informal User Testing  </description>
     </item>
     
   </channel>
